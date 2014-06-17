@@ -2,257 +2,343 @@ Reflection {
   Texture = "DOORSTOP"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/doorstop"
-  Shininess = 0.7}
+  Shininess = 0.7
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "PLANET1"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/planet1"
-  Shininess = 0.6}
+  Shininess = 0.6
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTFONT1"  # planet1
   Shiny map = "1x2test"
   Mask map = "masks/gstfont"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTFONT2"  # planet1
   Shiny map = "1x2test"
   Mask map = "masks/gstfont"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTFONT3"  # planet1
   Shiny map = "1x2test"
   Mask map = "masks/gstfont"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTGARG"  # planet1
   Shiny map = "1x2test"
   Mask map = "masks/1x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTLION"  # planet1
   Shiny map = "1x2test"
   Mask map = "masks/1x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTSATYR"  # planet1
   Shiny map = "1x2test"
   Mask map = "masks/1x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 Reflection {
   Texture = "GSTONE1"  # planet1
   Shiny map = "4x2test"
   Mask map = "masks/gstone1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTVINE1"  # planet1
   Shiny map = "4x2test"
   Mask map = "masks/marbvine"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "GSTVINE2"  # planet1
   Shiny map = "4x2test"
   Mask map = "masks/marbvine"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBFAC2"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBFAC3"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBFAC4"  # planet1
   Shiny map = "1x2"
   Mask map = "masks/1x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBFACE"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBGRAY"  # planet1
   Shiny map = "1x2"
   Mask map = "masks/1x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBLE1"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBLE2"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBLE3"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "MARBLOD1"  # planet1
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "PANEL6"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
-  Shininess = 0.3}
+  Shininess = 0.3
+	Flags = noiwad | ext
+}
 Reflection {
   Texture = "PANEL7"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
-  Shininess = 0.3}
+  Shininess = 0.3
+	Flags = noiwad | ext
+}
 Reflection {
   Texture = "PANEL8"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
-  Shininess = 0.3}
+  Shininess = 0.3
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "PANEL9"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
-  Shininess = 0.3}
+  Shininess = 0.3
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "SHAWN1"  # shawn2
   Shiny map = "2x2c"
   Mask map = "masks/shawn"
-  Shininess = 0.6}
+  Shininess = 0.6
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "SHAWN2"  # shawn2
   Shiny map = "1x2"
   Mask map = "masks/shawn2"
-  Shininess = 0.6}
+  Shininess = 0.6
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "SUPPORT2"  # startan3
   Shiny map = "2x2"
   Mask map = "masks/support2"
-  Shininess = 0.6}
+  Shininess = 0.6
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1brn2"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1brngn"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1gray1"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1mod1"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1strtn"
   Shiny map = "1x2"
   Mask map = "masks/sw2strtn"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1tek"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw1vine"
   Shiny map = "1x2"
   Mask map = "masks/switch1vine"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2brn2"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2brngn"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2gray1"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2mod1"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2tek"
   Shiny map = "1x2"
   Mask map = "masks/switch1"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2vine"
   Shiny map = "1x2"
   Mask map = "masks/switch1vine"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "sw2strtn"
   Shiny map = "1x2"
   Mask map = "masks/sw2strtn"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 
 Reflection {
   Texture = "TEKWALL4"  # starg3
   Shiny map = "2x2c"
   Mask map = "masks/tekwall4_mask"
-  Shininess = 0.8}
+  Shininess = 0.8
+	Flags = noiwad | ext
+}
 
 Reflection {
   Texture = "COMPTILE"  # starg3
   Shiny map = "1x2"
   Mask map = "masks/comptile"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 #---------------------------------------------------------------------------------
 #------------------------flats
@@ -261,15 +347,21 @@ Reflection {
 Reflection {
   Flat = "DEM1_5"  # starg3
   Shiny map = "1x2"
-  Shininess = 0.2}
+  Shininess = 0.2
+	Flags = noiwad | ext
+}
 
 Reflection {
   Flat = "FLOOR7_2"  # starg3
   Shiny map = "1x2"
-  Shininess = 0.1}
+  Shininess = 0.1
+	Flags = noiwad | ext
+}
 
 Reflection {
   Flat = "FLOOR4_8"  # starg3
   Shiny map = "1x2"
   Mask map = "masks/floor4_8"
-  Shininess = 0.4}
+  Shininess = 0.4
+	Flags = noiwad | ext
+}
