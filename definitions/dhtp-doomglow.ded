@@ -1,0 +1,7 @@
+Material
+{
+  Id = "GRASS1";
+  Namespace = flats;
+  Flags = glow; 
+}
+

@@ -1,0 +1,3 @@
+split means they there are different textures but have the same name
+one is in the doom1 folder the other is in the doom2 folder,
+ they souldn't be in the base (the .split file is there to tell us that)

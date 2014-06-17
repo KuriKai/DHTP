@@ -1,0 +1,2509 @@
+// ================================
+//  DHTP : DOOM Hires Texture Pack
+// ================================
+//
+// http://doomtextures.freelanzer.com/
+//
+// EDGE 1.29 DDF file for DOOM 1.
+//
+// Last updated: 2007/11/13
+//
+// Note: may contain entries that have not been done yet.
+// In that case, EDGE should fall-back to using the texture
+// or flat from the IWAD (with a warning message).
+//
+
+<IMAGES>
+
+#VERSION 1.29
+
+
+//------------ DOOM Common Flats & Textures ------------//
+
+// Flats, 64x64
+
+[flat:blood1]
+IMAGE_DATA=FILE:"flats/doom/blood1.png";
+SCALE=0.25; // new 256x256
+
+[flat:blood2]
+IMAGE_DATA=FILE:"flats/doom/blood2.png";
+SCALE=0.25; // new 256x256
+
+[flat:blood3]
+IMAGE_DATA=FILE:"flats/doom/blood3.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil1_1]
+IMAGE_DATA=FILE:"flats/doom/ceil1_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil1_2]
+IMAGE_DATA=FILE:"flats/doom/ceil1_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil1_3]
+IMAGE_DATA=FILE:"flats/doom/ceil1_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil3_1]
+IMAGE_DATA=FILE:"flats/doom/ceil3_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil3_2]
+IMAGE_DATA=FILE:"flats/doom/ceil3_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil3_3]
+IMAGE_DATA=FILE:"flats/doom/ceil3_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil3_4]
+IMAGE_DATA=FILE:"flats/doom/ceil3_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil3_5]
+IMAGE_DATA=FILE:"flats/doom/ceil3_5.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil3_6]
+IMAGE_DATA=FILE:"flats/doom/ceil3_6.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil4_1]
+IMAGE_DATA=FILE:"flats/doom/ceil4_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil4_2]
+IMAGE_DATA=FILE:"flats/doom/ceil4_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil4_3]
+IMAGE_DATA=FILE:"flats/doom/ceil4_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil5_1]
+IMAGE_DATA=FILE:"flats/doom/ceil5_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:ceil5_2]
+IMAGE_DATA=FILE:"flats/doom/ceil5_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:comp01]
+IMAGE_DATA=FILE:"flats/doom/comp01.png";
+SCALE=0.25; // new 256x256
+
+[flat:cons1_1]
+IMAGE_DATA=FILE:"flats/doom/cons1_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:cons1_5]
+IMAGE_DATA=FILE:"flats/doom/cons1_5.png";
+SCALE=0.25; // new 256x256
+
+[flat:cons1_7]
+IMAGE_DATA=FILE:"flats/doom/cons1_7.png";
+SCALE=0.25; // new 256x256
+
+[flat:cratop1]
+IMAGE_DATA=FILE:"flats/doom/cratop1.png";
+SCALE=0.125; // new 512x512
+
+[flat:cratop2]
+IMAGE_DATA=FILE:"flats/doom/cratop2.png";
+SCALE=0.125; // new 512x512
+
+[flat:dem1_1]
+IMAGE_DATA=FILE:"flats/doom/dem1_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:dem1_2]
+IMAGE_DATA=FILE:"flats/doom/dem1_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:dem1_3]
+IMAGE_DATA=FILE:"flats/doom/dem1_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:dem1_4]
+IMAGE_DATA=FILE:"flats/doom/dem1_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:dem1_5]
+IMAGE_DATA=FILE:"flats/doom/dem1_5.png";
+SCALE=0.25; // new 256x256
+
+[flat:dem1_6]
+IMAGE_DATA=FILE:"flats/doom/dem1_6.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat1]
+IMAGE_DATA=FILE:"flats/doom/flat1.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat1_1]
+IMAGE_DATA=FILE:"flats/doom/flat1_1.png";
+SCALE=0.5; // new 128x128
+
+[flat:flat1_2]
+IMAGE_DATA=FILE:"flats/doom/flat1_2.png";
+SCALE=0.5; // new 128x128
+
+[flat:flat1_3]
+IMAGE_DATA=FILE:"flats/doom/flat1_3.png";
+SCALE=0.5; // new 128x128
+
+[flat:flat10]
+IMAGE_DATA=FILE:"flats/doom/flat10.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat14]
+IMAGE_DATA=FILE:"flats/doom/flat14.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat17]
+IMAGE_DATA=FILE:"flats/doom/flat17.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat18]
+IMAGE_DATA=FILE:"flats/doom/flat18.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat19]
+IMAGE_DATA=FILE:"flats/doom/flat19.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat20]
+IMAGE_DATA=FILE:"flats/doom/flat20.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat22]
+IMAGE_DATA=FILE:"flats/doom/flat22.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat23]
+IMAGE_DATA=FILE:"flats/doom/flat23.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat2]
+IMAGE_DATA=FILE:"flats/doom/flat2.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat3]
+IMAGE_DATA=FILE:"flats/doom/flat3.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat4]
+IMAGE_DATA=FILE:"flats/doom/flat4.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_1]
+IMAGE_DATA=FILE:"flats/doom/flat5_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_2]
+IMAGE_DATA=FILE:"flats/doom/flat5_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_3]
+IMAGE_DATA=FILE:"flats/doom/flat5_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_4]
+IMAGE_DATA=FILE:"flats/doom/flat5_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_5]
+IMAGE_DATA=FILE:"flats/doom/flat5_5.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_6]
+IMAGE_DATA=FILE:"flats/doom/flat5_6.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_7]
+IMAGE_DATA=FILE:"flats/doom/flat5_7.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5_8]
+IMAGE_DATA=FILE:"flats/doom/flat5_8.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat5]
+IMAGE_DATA=FILE:"flats/doom/flat5.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat8]
+IMAGE_DATA=FILE:"flats/doom/flat8.png";
+SCALE=0.25; // new 256x256
+
+[flat:flat9]
+IMAGE_DATA=FILE:"flats/doom/flat9.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor0_1]
+IMAGE_DATA=FILE:"flats/doom/floor0_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor0_2]
+IMAGE_DATA=FILE:"flats/doom/floor0_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor0_3]
+IMAGE_DATA=FILE:"flats/doom/floor0_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor0_5]
+IMAGE_DATA=FILE:"flats/doom/floor0_5.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor0_6]
+IMAGE_DATA=FILE:"flats/doom/floor0_6.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor0_7]
+IMAGE_DATA=FILE:"flats/doom/floor0_7.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor1_1]
+IMAGE_DATA=FILE:"flats/doom/floor1_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor1_6]
+IMAGE_DATA=FILE:"flats/doom/floor1_6.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor1_7]
+IMAGE_DATA=FILE:"flats/doom/floor1_7.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor3_3]
+IMAGE_DATA=FILE:"flats/doom/floor3_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor4_1]
+IMAGE_DATA=FILE:"flats/doom/floor4_1.png";
+SCALE=0.5; // new 128x128
+
+[flat:floor4_5]
+IMAGE_DATA=FILE:"flats/doom/floor4_5.png";
+SCALE=0.5; // new 128x128
+
+[flat:floor4_6]
+IMAGE_DATA=FILE:"flats/doom/floor4_6.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor4_8]
+IMAGE_DATA=FILE:"flats/doom/floor4_8.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor5_1]
+IMAGE_DATA=FILE:"flats/doom/floor5_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor5_2]
+IMAGE_DATA=FILE:"flats/doom/floor5_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor5_3]
+IMAGE_DATA=FILE:"flats/doom/floor5_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor5_4]
+IMAGE_DATA=FILE:"flats/doom/floor5_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor6_1]
+IMAGE_DATA=FILE:"flats/doom/floor6_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor6_2]
+IMAGE_DATA=FILE:"flats/doom/floor6_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor7_1]
+IMAGE_DATA=FILE:"flats/doom/floor7_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:floor7_2]
+IMAGE_DATA=FILE:"flats/doom/floor7_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:fwater1]
+IMAGE_DATA=FILE:"flats/doom/fwater1.png";
+SCALE=0.25; // new 256x256
+
+[flat:fwater2]
+IMAGE_DATA=FILE:"flats/doom/fwater2.png";
+SCALE=0.25; // new 256x256
+
+[flat:fwater3]
+IMAGE_DATA=FILE:"flats/doom/fwater3.png";
+SCALE=0.25; // new 256x256
+
+[flat:fwater4]
+IMAGE_DATA=FILE:"flats/doom/fwater4.png";
+SCALE=0.25; // new 256x256
+
+[flat:gate1]
+IMAGE_DATA=FILE:"flats/doom/gate1.png";
+SCALE=0.25; // new 256x256
+
+[flat:gate2]
+IMAGE_DATA=FILE:"flats/doom/gate2.png";
+SCALE=0.5; // new 128x128
+
+[flat:gate3]
+IMAGE_DATA=FILE:"flats/doom/gate3.png";
+SCALE=0.25; // new 256x256
+
+[flat:gate4]
+IMAGE_DATA=FILE:"flats/doom/gate4.png";
+SCALE=0.5; // new 128x128
+
+[flat:grass1]
+IMAGE_DATA=FILE:"flats/doom/grass1.png";
+SCALE=0.25; // new 256x256
+
+[flat:grass2]
+IMAGE_DATA=FILE:"flats/doom/grass2.png";
+SCALE=0.25; // new 256x256
+
+[flat:grnlite1]
+IMAGE_DATA=FILE:"flats/doom/grnlite1.png";
+SCALE=0.25; // new 256x256
+
+[flat:grnrock]
+IMAGE_DATA=FILE:"flats/doom/grnrock.png";
+SCALE=0.25; // new 256x256
+
+[flat:lava1]
+IMAGE_DATA=FILE:"flats/doom/lava1.png";
+SCALE=0.25; // new 256x256
+
+[flat:lava2]
+IMAGE_DATA=FILE:"flats/doom/lava2.png";
+SCALE=0.25; // new 256x256
+
+[flat:lava3]
+IMAGE_DATA=FILE:"flats/doom/lava3.png";
+SCALE=0.25; // new 256x256
+
+[flat:lava4]
+IMAGE_DATA=FILE:"flats/doom/lava4.png";
+SCALE=0.25; // new 256x256
+
+[flat:mflr8_1]
+IMAGE_DATA=FILE:"flats/doom/mflr8_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:mflr8_2]
+IMAGE_DATA=FILE:"flats/doom/mflr8_2.png";
+SCALE=0.25; // new 256x256
+
+[flat:mflr8_3]
+IMAGE_DATA=FILE:"flats/doom/mflr8_3.png";
+SCALE=0.25; // new 256x256
+
+[flat:mflr8_4]
+IMAGE_DATA=FILE:"flats/doom/mflr8_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:nukage1]
+IMAGE_DATA=FILE:"flats/doom/nukage1.png";
+SCALE=0.25; // new 256x256
+
+[flat:nukage2]
+IMAGE_DATA=FILE:"flats/doom/nukage2.png";
+SCALE=0.25; // new 256x256
+
+[flat:nukage3]
+IMAGE_DATA=FILE:"flats/doom/nukage3.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock01]
+IMAGE_DATA=FILE:"flats/doom/rrock01.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock02]
+IMAGE_DATA=FILE:"flats/doom/rrock02.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock03]
+IMAGE_DATA=FILE:"flats/doom/rrock03.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock04]
+IMAGE_DATA=FILE:"flats/doom/rrock04.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock05]
+IMAGE_DATA=FILE:"flats/doom/rrock05.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock06]
+IMAGE_DATA=FILE:"flats/doom/rrock06.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock07]
+IMAGE_DATA=FILE:"flats/doom/rrock07.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock08]
+IMAGE_DATA=FILE:"flats/doom/rrock08.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock10]
+IMAGE_DATA=FILE:"flats/doom/rrock10.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock11]
+IMAGE_DATA=FILE:"flats/doom/rrock11.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock13]
+IMAGE_DATA=FILE:"flats/doom/rrock13.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock15]
+IMAGE_DATA=FILE:"flats/doom/rrock15.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock17]
+IMAGE_DATA=FILE:"flats/doom/rrock17.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock09]
+IMAGE_DATA=FILE:"flats/doom/rrock09.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock12]
+IMAGE_DATA=FILE:"flats/doom/rrock12.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock14]
+IMAGE_DATA=FILE:"flats/doom/rrock14.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock16]
+IMAGE_DATA=FILE:"flats/doom/rrock16.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock18]
+IMAGE_DATA=FILE:"flats/doom/rrock18.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock19]
+IMAGE_DATA=FILE:"flats/doom/rrock19.png";
+SCALE=0.25; // new 256x256
+
+[flat:rrock20]
+IMAGE_DATA=FILE:"flats/doom/rrock20.png";
+SCALE=0.25; // new 256x256
+
+[flat:sflr6_1]
+IMAGE_DATA=FILE:"flats/doom/sflr6_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:sflr6_4]
+IMAGE_DATA=FILE:"flats/doom/sflr6_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:sflr7_1]
+IMAGE_DATA=FILE:"flats/doom/sflr7_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:sflr7_4]
+IMAGE_DATA=FILE:"flats/doom/sflr7_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:step1]
+IMAGE_DATA=FILE:"flats/doom/step1.png";
+SCALE=0.25; // new 256x256
+
+[flat:step2]
+IMAGE_DATA=FILE:"flats/doom/step2.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime01]
+IMAGE_DATA=FILE:"flats/doom/slime01.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime02]
+IMAGE_DATA=FILE:"flats/doom/slime02.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime03]
+IMAGE_DATA=FILE:"flats/doom/slime03.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime04]
+IMAGE_DATA=FILE:"flats/doom/slime04.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime05]
+IMAGE_DATA=FILE:"flats/doom/slime05.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime06]
+IMAGE_DATA=FILE:"flats/doom/slime06.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime07]
+IMAGE_DATA=FILE:"flats/doom/slime07.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime08]
+IMAGE_DATA=FILE:"flats/doom/slime08.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime09]
+IMAGE_DATA=FILE:"flats/doom/slime09.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime10]
+IMAGE_DATA=FILE:"flats/doom/slime10.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime11]
+IMAGE_DATA=FILE:"flats/doom/slime11.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime12]
+IMAGE_DATA=FILE:"flats/doom/slime12.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime13]
+IMAGE_DATA=FILE:"flats/doom/slime13.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime14]
+IMAGE_DATA=FILE:"flats/doom/slime14.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime15]
+IMAGE_DATA=FILE:"flats/doom/slime15.png";
+SCALE=0.25; // new 256x256
+
+[flat:slime16]
+IMAGE_DATA=FILE:"flats/doom/slime16.png";
+SCALE=0.25; // new 256x256
+
+[flat:tlite6_1]
+IMAGE_DATA=FILE:"flats/doom/tlite6_1.png";
+SCALE=0.25; // new 256x256
+
+[flat:tlite6_4]
+IMAGE_DATA=FILE:"flats/doom/tlite6_4.png";
+SCALE=0.25; // new 256x256
+
+[flat:tlite6_5]
+IMAGE_DATA=FILE:"flats/doom/tlite6_5.png";
+SCALE=0.25; // new 256x256
+
+[flat:tlite6_6]
+IMAGE_DATA=FILE:"flats/doom/tlite6_6.png";
+SCALE=0.25; // new 256x256
+
+
+// Textures, 64x128
+
+[tex:ashwall2]
+IMAGE_DATA=FILE:"textures/doom/ashwall2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ashwall3]
+IMAGE_DATA=FILE:"textures/doom/ashwall3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ashwall4]
+IMAGE_DATA=FILE:"textures/doom/ashwall4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ashwall6]
+IMAGE_DATA=FILE:"textures/doom/ashwall6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ashwall7]
+IMAGE_DATA=FILE:"textures/doom/ashwall7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bfall1]
+IMAGE_DATA=FILE:"textures/doom/bfall1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bfall2]
+IMAGE_DATA=FILE:"textures/doom/bfall2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bfall3]
+IMAGE_DATA=FILE:"textures/doom/bfall3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bfall4]
+IMAGE_DATA=FILE:"textures/doom/bfall4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bigbrik1]
+IMAGE_DATA=FILE:"textures/doom/bigbrik1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bigbrik2]
+IMAGE_DATA=FILE:"textures/doom/bigbrik2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bigbrik3]
+IMAGE_DATA=FILE:"textures/doom/bigbrik3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:blakwal1]
+IMAGE_DATA=FILE:"textures/doom/blakwal1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:blakwal2]
+IMAGE_DATA=FILE:"textures/doom/blakwal2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick10]
+IMAGE_DATA=FILE:"textures/doom/brick10.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick11]
+IMAGE_DATA=FILE:"textures/doom/brick11.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick12]
+IMAGE_DATA=FILE:"textures/doom/brick12.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick1]
+IMAGE_DATA=FILE:"textures/doom/brick1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick2]
+IMAGE_DATA=FILE:"textures/doom/brick2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick3]
+IMAGE_DATA=FILE:"textures/doom/brick3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick4]
+IMAGE_DATA=FILE:"textures/doom/brick4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick6]
+IMAGE_DATA=FILE:"textures/doom/brick6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick7]
+IMAGE_DATA=FILE:"textures/doom/brick7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick8]
+IMAGE_DATA=FILE:"textures/doom/brick8.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brick9]
+IMAGE_DATA=FILE:"textures/doom/brick9.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bricklit]
+IMAGE_DATA=FILE:"textures/doom/bricklit.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bronze1]
+IMAGE_DATA=FILE:"textures/doom/bronze1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bronze2]
+IMAGE_DATA=FILE:"textures/doom/bronze2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bronze3]
+IMAGE_DATA=FILE:"textures/doom/bronze3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bronze4]
+IMAGE_DATA=FILE:"textures/doom/bronze4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:browngrn]
+IMAGE_DATA=FILE:"textures/doom/browngrn.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brownhug]
+IMAGE_DATA=FILE:"textures/doom/brownhug.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brwindow]
+IMAGE_DATA=FILE:"textures/doom/brwindow.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bstone1]
+IMAGE_DATA=FILE:"textures/doom/bstone1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bstone2]
+IMAGE_DATA=FILE:"textures/doom/bstone2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:bstone3]
+IMAGE_DATA=FILE:"textures/doom/bstone3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:cement7]
+IMAGE_DATA=FILE:"textures/doom/cement7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:cement8]
+IMAGE_DATA=FILE:"textures/doom/cement8.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:cement9]
+IMAGE_DATA=FILE:"textures/doom/cement9.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:compblue]
+IMAGE_DATA=FILE:"textures/doom/compblue.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:compwerd]
+IMAGE_DATA=FILE:"textures/doom/compwerd.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:crackle2]
+IMAGE_DATA=FILE:"textures/doom/crackle2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:crackle4]
+IMAGE_DATA=FILE:"textures/doom/crackle4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:crate1]
+IMAGE_DATA=FILE:"textures/doom/crate1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:crate2]
+IMAGE_DATA=FILE:"textures/doom/crate2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:crate3]
+IMAGE_DATA=FILE:"textures/doom/crate3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:cratelit]
+IMAGE_DATA=FILE:"textures/doom/cratelit.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:door1]
+IMAGE_DATA=FILE:"textures/doom/door1.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:door3]
+IMAGE_DATA=FILE:"textures/doom/door3.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:exitsign]
+IMAGE_DATA=FILE:"textures/doom/exitsign.png";
+SCALE=0.25; // old 64x16 : new 256x64
+
+[tex:exitston]
+IMAGE_DATA=FILE:"textures/doom/exitston.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gray1]
+IMAGE_DATA=FILE:"textures/doom/gray1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gray2]
+IMAGE_DATA=FILE:"textures/doom/gray2.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:gray4]
+IMAGE_DATA=FILE:"textures/doom/gray4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gray5]
+IMAGE_DATA=FILE:"textures/doom/gray5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:graypois]
+IMAGE_DATA=FILE:"textures/doom/graypois.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:gstfont1]
+IMAGE_DATA=FILE:"textures/doom/gstfont1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gstfont2]
+IMAGE_DATA=FILE:"textures/doom/gstfont2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gstfont3]
+IMAGE_DATA=FILE:"textures/doom/gstfont3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gstgarg]
+IMAGE_DATA=FILE:"textures/doom/gstgarg.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gstlion]
+IMAGE_DATA=FILE:"textures/doom/gstlion.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:gstsatyr]
+IMAGE_DATA=FILE:"textures/doom/gstsatyr.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickwall1]
+IMAGE_DATA=FILE:"textures/doom/ickwall1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickwall2]
+IMAGE_DATA=FILE:"textures/doom/ickwall2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickwall3]
+IMAGE_DATA=FILE:"textures/doom/ickwall3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickwall4]
+IMAGE_DATA=FILE:"textures/doom/ickwall4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickwall5]
+IMAGE_DATA=FILE:"textures/doom/ickwall5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickwall7]
+IMAGE_DATA=FILE:"textures/doom/ickwall7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:marbfac4]
+IMAGE_DATA=FILE:"textures/doom/marbfac4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:marbgray]
+IMAGE_DATA=FILE:"textures/doom/marbgray.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal1]
+IMAGE_DATA=FILE:"textures/doom/metal1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal2]
+IMAGE_DATA=FILE:"textures/doom/metal2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal3]
+IMAGE_DATA=FILE:"textures/doom/metal3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal4]
+IMAGE_DATA=FILE:"textures/doom/metal4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal5]
+IMAGE_DATA=FILE:"textures/doom/metal5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal6]
+IMAGE_DATA=FILE:"textures/doom/metal6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal7]
+IMAGE_DATA=FILE:"textures/doom/metal7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:metal]
+IMAGE_DATA=FILE:"textures/doom/metal.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:midbars1]
+IMAGE_DATA=FILE:"textures/doom/midbars1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:midbars3]
+IMAGE_DATA=FILE:"textures/doom/midbars3.png";
+SCALE=0.25; // old 64x64 : new 256x256
+
+[tex:midbrn1]
+IMAGE_DATA=FILE:"textures/doom/midbrn1.png";
+SCALE=0.25; // old 64x128 : new 292x512  !!!
+
+[tex:midbronz]
+IMAGE_DATA=FILE:"textures/doom/midbronz.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:midspace]
+IMAGE_DATA=FILE:"textures/doom/midspace.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:modwall1]
+IMAGE_DATA=FILE:"textures/doom/modwall1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:modwall2]
+IMAGE_DATA=FILE:"textures/doom/modwall2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:modwall3]
+IMAGE_DATA=FILE:"textures/doom/modwall3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:modwall4]
+IMAGE_DATA=FILE:"textures/doom/modwall4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panbook]
+IMAGE_DATA=FILE:"textures/doom/panbook.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:pancase1]
+IMAGE_DATA=FILE:"textures/doom/pancase1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:pancase2]
+IMAGE_DATA=FILE:"textures/doom/pancase2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel1]
+IMAGE_DATA=FILE:"textures/doom/panel1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel2]
+IMAGE_DATA=FILE:"textures/doom/panel2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel3]
+IMAGE_DATA=FILE:"textures/doom/panel3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel4]
+IMAGE_DATA=FILE:"textures/doom/panel4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel5]
+IMAGE_DATA=FILE:"textures/doom/panel5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel6]
+IMAGE_DATA=FILE:"textures/doom/panel6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel7]
+IMAGE_DATA=FILE:"textures/doom/panel7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel8]
+IMAGE_DATA=FILE:"textures/doom/panel8.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panel9]
+IMAGE_DATA=FILE:"textures/doom/panel9.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panblack]
+IMAGE_DATA=FILE:"textures/doom/panblack.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panblue]
+IMAGE_DATA=FILE:"textures/doom/panblue.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:panred]
+IMAGE_DATA=FILE:"textures/doom/panred.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:pipes]
+IMAGE_DATA=FILE:"textures/doom/pipes.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:pipewal1]
+IMAGE_DATA=FILE:"textures/doom/pipewal1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:pipewal2]
+IMAGE_DATA=FILE:"textures/doom/pipewal2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:rock1]
+IMAGE_DATA=FILE:"textures/doom/rock1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:rock2]
+IMAGE_DATA=FILE:"textures/doom/rock2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:rock3]
+IMAGE_DATA=FILE:"textures/doom/rock3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sfall1]
+IMAGE_DATA=FILE:"textures/doom/sfall1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sfall2]
+IMAGE_DATA=FILE:"textures/doom/sfall2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sfall3]
+IMAGE_DATA=FILE:"textures/doom/sfall3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sfall4]
+IMAGE_DATA=FILE:"textures/doom/sfall4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:shawn2]
+IMAGE_DATA=FILE:"textures/doom/shawn2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:shawn3]
+IMAGE_DATA=FILE:"textures/doom/shawn3.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:silver1]
+IMAGE_DATA=FILE:"textures/doom/silver1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:silver2]
+IMAGE_DATA=FILE:"textures/doom/silver2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:silver3]
+IMAGE_DATA=FILE:"textures/doom/silver3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sk_left]
+IMAGE_DATA=FILE:"textures/doom/sk_left.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sk_right]
+IMAGE_DATA=FILE:"textures/doom/sk_right.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sksnake1]
+IMAGE_DATA=FILE:"textures/doom/sksnake1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sksnake2]
+IMAGE_DATA=FILE:"textures/doom/sksnake2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sladpois]
+IMAGE_DATA=FILE:"textures/doom/sladpois.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sladskul]
+IMAGE_DATA=FILE:"textures/doom/sladskul.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sladwall]
+IMAGE_DATA=FILE:"textures/doom/sladwall.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sloppy1]
+IMAGE_DATA=FILE:"textures/doom/sloppy1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sloppy2]
+IMAGE_DATA=FILE:"textures/doom/sloppy2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sp_dude4]
+IMAGE_DATA=FILE:"textures/doom/sp_dude4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sp_dude5]
+IMAGE_DATA=FILE:"textures/doom/sp_dude5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sp_face2]
+IMAGE_DATA=FILE:"textures/doom/sp_face2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spacew2]
+IMAGE_DATA=FILE:"textures/doom/spacew2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spacew3]
+IMAGE_DATA=FILE:"textures/doom/spacew3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spacew4]
+IMAGE_DATA=FILE:"textures/doom/spacew4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spcdoor1]
+IMAGE_DATA=FILE:"textures/doom/spcdoor1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spcdoor2]
+IMAGE_DATA=FILE:"textures/doom/spcdoor2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spcdoor3]
+IMAGE_DATA=FILE:"textures/doom/spcdoor3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:spcdoor4]
+IMAGE_DATA=FILE:"textures/doom/spcdoor4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:starg1]
+IMAGE_DATA=FILE:"textures/doom/starg1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stargr1]
+IMAGE_DATA=FILE:"textures/doom/stargr1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stone4]
+IMAGE_DATA=FILE:"textures/doom/stone4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stone5]
+IMAGE_DATA=FILE:"textures/doom/stone5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stone6]
+IMAGE_DATA=FILE:"textures/doom/stone6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stone7]
+IMAGE_DATA=FILE:"textures/doom/stone7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stucco1]
+IMAGE_DATA=FILE:"textures/doom/stucco1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stucco2]
+IMAGE_DATA=FILE:"textures/doom/stucco2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stucco3]
+IMAGE_DATA=FILE:"textures/doom/stucco3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stucco]
+IMAGE_DATA=FILE:"textures/doom/stucco.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:support2]
+IMAGE_DATA=FILE:"textures/doom/support2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:support3]
+IMAGE_DATA=FILE:"textures/doom/support3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1blue]
+IMAGE_DATA=FILE:"textures/doom/sw1blue.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1brik]
+IMAGE_DATA=FILE:"textures/doom/sw1brik.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1brn2]
+IMAGE_DATA=FILE:"textures/doom/sw1brn2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1brngn]
+IMAGE_DATA=FILE:"textures/doom/sw1brngn.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1cmt]
+IMAGE_DATA=FILE:"textures/doom/sw1cmt.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1comm]
+IMAGE_DATA=FILE:"textures/doom/sw1comm.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:sw1comp]
+IMAGE_DATA=FILE:"textures/doom/sw1comp.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1dirt]
+IMAGE_DATA=FILE:"textures/doom/sw1dirt.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1garg]
+IMAGE_DATA=FILE:"textures/doom/sw1garg.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1gray1]
+IMAGE_DATA=FILE:"textures/doom/sw1gray1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1gray]
+IMAGE_DATA=FILE:"textures/doom/sw1gray.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1lion]
+IMAGE_DATA=FILE:"textures/doom/sw1lion.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1met2]
+IMAGE_DATA=FILE:"textures/doom/sw1met2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1metal]
+IMAGE_DATA=FILE:"textures/doom/sw1metal.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1mod1]
+IMAGE_DATA=FILE:"textures/doom/sw1mod1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1panel]
+IMAGE_DATA=FILE:"textures/doom/sw1panel.png";
+SCALE=0.125; // old 64x128 : new 512x1024
+
+[tex:sw1satyr]
+IMAGE_DATA=FILE:"textures/doom/sw1satyr.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1skull]
+IMAGE_DATA=FILE:"textures/doom/sw1skull.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1slad]
+IMAGE_DATA=FILE:"textures/doom/sw1slad.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1ston1]
+IMAGE_DATA=FILE:"textures/doom/sw1ston1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1ston6]
+IMAGE_DATA=FILE:"textures/doom/sw1ston6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1strtn]
+IMAGE_DATA=FILE:"textures/doom/sw1strtn.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1tek]
+IMAGE_DATA=FILE:"textures/doom/sw1tek.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1rock]
+IMAGE_DATA=FILE:"textures/doom/sw1rock.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1skin]
+IMAGE_DATA=FILE:"textures/doom/sw1skin.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1vine]
+IMAGE_DATA=FILE:"textures/doom/sw1vine.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1wdmet]
+IMAGE_DATA=FILE:"textures/doom/sw1wdmet.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2blue]
+IMAGE_DATA=FILE:"textures/doom/sw2blue.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2brik]
+IMAGE_DATA=FILE:"textures/doom/sw2brik.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2brn2]
+IMAGE_DATA=FILE:"textures/doom/sw2brn2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2brngn]
+IMAGE_DATA=FILE:"textures/doom/sw2brngn.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2cmt]
+IMAGE_DATA=FILE:"textures/doom/sw2cmt.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2comm]
+IMAGE_DATA=FILE:"textures/doom/sw2comm.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:sw2comp]
+IMAGE_DATA=FILE:"textures/doom/sw2comp.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2dirt]
+IMAGE_DATA=FILE:"textures/doom/sw2dirt.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2garg]
+IMAGE_DATA=FILE:"textures/doom/sw2garg.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2gray1]
+IMAGE_DATA=FILE:"textures/doom/sw2gray1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2gray]
+IMAGE_DATA=FILE:"textures/doom/sw2gray.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2lion]
+IMAGE_DATA=FILE:"textures/doom/sw2lion.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2met2]
+IMAGE_DATA=FILE:"textures/doom/sw2met2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2metal]
+IMAGE_DATA=FILE:"textures/doom/sw2metal.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2mod1]
+IMAGE_DATA=FILE:"textures/doom/sw2mod1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2panel]
+IMAGE_DATA=FILE:"textures/doom/sw2panel.png";
+SCALE=0.125; // old 64x128 : new 512x1024
+
+[tex:sw2satyr]
+IMAGE_DATA=FILE:"textures/doom/sw2satyr.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2skull]
+IMAGE_DATA=FILE:"textures/doom/sw2skull.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2slad]
+IMAGE_DATA=FILE:"textures/doom/sw2slad.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2ston1]
+IMAGE_DATA=FILE:"textures/doom/sw2ston1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2ston6]
+IMAGE_DATA=FILE:"textures/doom/sw2ston6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2strtn]
+IMAGE_DATA=FILE:"textures/doom/sw2strtn.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2tek]
+IMAGE_DATA=FILE:"textures/doom/sw2tek.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1gston]
+IMAGE_DATA=FILE:"textures/doom/sw1gston.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2gston]
+IMAGE_DATA=FILE:"textures/doom/sw2gston.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1hot]
+IMAGE_DATA=FILE:"textures/doom/sw1hot.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2hot]
+IMAGE_DATA=FILE:"textures/doom/sw2hot.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1marb]
+IMAGE_DATA=FILE:"textures/doom/sw1marb.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2marb]
+IMAGE_DATA=FILE:"textures/doom/sw2marb.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1wood]
+IMAGE_DATA=FILE:"textures/doom/sw1wood.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2wood]
+IMAGE_DATA=FILE:"textures/doom/sw2wood.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1zim]
+IMAGE_DATA=FILE:"textures/doom/sw1zim.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2zim]
+IMAGE_DATA=FILE:"textures/doom/sw2zim.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2rock]
+IMAGE_DATA=FILE:"textures/doom/sw2rock.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2skin]
+IMAGE_DATA=FILE:"textures/doom/sw2skin.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2vine]
+IMAGE_DATA=FILE:"textures/doom/sw2vine.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2wdmet]
+IMAGE_DATA=FILE:"textures/doom/sw2wdmet.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tanrock3]
+IMAGE_DATA=FILE:"textures/doom/tanrock3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tanrock7]
+IMAGE_DATA=FILE:"textures/doom/tanrock7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tanrock2]
+IMAGE_DATA=FILE:"textures/doom/tanrock2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tanrock4]
+IMAGE_DATA=FILE:"textures/doom/tanrock4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tanrock5]
+IMAGE_DATA=FILE:"textures/doom/tanrock5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tanrock8]
+IMAGE_DATA=FILE:"textures/doom/tanrock8.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekbron2]
+IMAGE_DATA=FILE:"textures/doom/tekbron2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekgren1]
+IMAGE_DATA=FILE:"textures/doom/tekgren1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekgren2]
+IMAGE_DATA=FILE:"textures/doom/tekgren2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekgren3]
+IMAGE_DATA=FILE:"textures/doom/tekgren3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekgren4]
+IMAGE_DATA=FILE:"textures/doom/tekgren4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekgren5]
+IMAGE_DATA=FILE:"textures/doom/tekgren5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:teklite2]
+IMAGE_DATA=FILE:"textures/doom/teklite2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:teklite]
+IMAGE_DATA=FILE:"textures/doom/teklite.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:wood4]
+IMAGE_DATA=FILE:"textures/doom/wood4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:wood6]
+IMAGE_DATA=FILE:"textures/doom/wood6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:wood7]
+IMAGE_DATA=FILE:"textures/doom/wood7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:wood8]
+IMAGE_DATA=FILE:"textures/doom/wood8.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:wood9]
+IMAGE_DATA=FILE:"textures/doom/wood9.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:wood12]
+IMAGE_DATA=FILE:"textures/doom/wood12.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:woodgarg]
+IMAGE_DATA=FILE:"textures/doom/woodgarg.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:woodmet1]
+IMAGE_DATA=FILE:"textures/doom/woodmet1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:woodmet2]
+IMAGE_DATA=FILE:"textures/doom/woodmet2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:woodmet3]
+IMAGE_DATA=FILE:"textures/doom/woodmet3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:woodmet4]
+IMAGE_DATA=FILE:"textures/doom/woodmet4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:woodvert]
+IMAGE_DATA=FILE:"textures/doom/woodvert.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer1]
+IMAGE_DATA=FILE:"textures/doom/zimmer1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer2]
+IMAGE_DATA=FILE:"textures/doom/zimmer2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer3]
+IMAGE_DATA=FILE:"textures/doom/zimmer3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer4]
+IMAGE_DATA=FILE:"textures/doom/zimmer4.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer5]
+IMAGE_DATA=FILE:"textures/doom/zimmer5.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer7]
+IMAGE_DATA=FILE:"textures/doom/zimmer7.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:zimmer8]
+IMAGE_DATA=FILE:"textures/doom/zimmer8.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+
+// Textures, 128x128
+
+[tex:bigdoor1]
+IMAGE_DATA=FILE:"textures/doom/bigdoor1.png";
+SCALE=0.25; // old 128x96 : new 512x384
+
+[tex:bigdoor2]
+IMAGE_DATA=FILE:"textures/doom/bigdoor2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:bigdoor3]
+IMAGE_DATA=FILE:"textures/doom/bigdoor3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:bigdoor4]
+IMAGE_DATA=FILE:"textures/doom/bigdoor4.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:bigdoor5]
+IMAGE_DATA=FILE:"textures/doom/bigdoor5.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:bigdoor6]
+IMAGE_DATA=FILE:"textures/doom/bigdoor6.png";
+SCALE=0.25; // old 128x112 : new 512x448
+
+[tex:bigdoor7]
+IMAGE_DATA=FILE:"textures/doom/bigdoor7.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:brick5]
+IMAGE_DATA=FILE:"textures/doom/brick5.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:brown1]
+IMAGE_DATA=FILE:"textures/doom/brown1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:brown144]
+IMAGE_DATA=FILE:"textures/doom/brown144.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:brown96]
+IMAGE_DATA=FILE:"textures/doom/brown96.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:brownpip]
+IMAGE_DATA=FILE:"textures/doom/brownpip.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cement1]
+IMAGE_DATA=FILE:"textures/doom/cement1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cement2]
+IMAGE_DATA=FILE:"textures/doom/cement2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cement3]
+IMAGE_DATA=FILE:"textures/doom/cement3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cement4]
+IMAGE_DATA=FILE:"textures/doom/cement4.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cement5]
+IMAGE_DATA=FILE:"textures/doom/cement5.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cement6]
+IMAGE_DATA=FILE:"textures/doom/cement6.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:compsta1]
+IMAGE_DATA=FILE:"textures/doom/compsta1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:compsta2]
+IMAGE_DATA=FILE:"textures/doom/compsta2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:cratwide]
+IMAGE_DATA=FILE:"textures/doom/cratwide.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:exitdoor]
+IMAGE_DATA=FILE:"textures/doom/exitdoor.png";
+SCALE=0.25; // old 128x72 : new 512x288
+
+[tex:fireblu1]
+IMAGE_DATA=FILE:"textures/doom/fireblu1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:fireblu2]
+IMAGE_DATA=FILE:"textures/doom/fireblu2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firelav2]
+IMAGE_DATA=FILE:"textures/doom/firelav2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firelav3]
+IMAGE_DATA=FILE:"textures/doom/firelav3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firelava]
+IMAGE_DATA=FILE:"textures/doom/firelava.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firemag1]
+IMAGE_DATA=FILE:"textures/doom/firemag1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firemag2]
+IMAGE_DATA=FILE:"textures/doom/firemag2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firemag3]
+IMAGE_DATA=FILE:"textures/doom/firemag3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:firewala]
+IMAGE_DATA=FILE:"textures/doom/firewala.png";
+SCALE=0.25; // old 128x112 : new 512x448
+
+[tex:firewalb]
+IMAGE_DATA=FILE:"textures/doom/firewalb.png";
+SCALE=0.25; // old 128x112 : new 512x448
+
+[tex:firewall]
+IMAGE_DATA=FILE:"textures/doom/firewall.png";
+SCALE=0.25; // old 128x112 : new 512x448
+
+[tex:graybig]
+IMAGE_DATA=FILE:"textures/doom/graybig.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:graytall]
+IMAGE_DATA=FILE:"textures/doom/graytall.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marbfac2]
+IMAGE_DATA=FILE:"textures/doom/marbfac2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marbfac3]
+IMAGE_DATA=FILE:"textures/doom/marbfac3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marbface]
+IMAGE_DATA=FILE:"textures/doom/marbface.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marble1]
+IMAGE_DATA=FILE:"textures/doom/marble1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marble2]
+IMAGE_DATA=FILE:"textures/doom/marble2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marble3]
+IMAGE_DATA=FILE:"textures/doom/marble3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:marblod1]
+IMAGE_DATA=FILE:"textures/doom/marblod1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:midgrate]
+IMAGE_DATA=FILE:"textures/doom/midgrate.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:nukedge1]
+IMAGE_DATA=FILE:"textures/doom/nukedge1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:plat1]
+IMAGE_DATA=FILE:"textures/doom/plat1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:redwall]
+IMAGE_DATA=FILE:"textures/doom/redwall.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:rock4]
+IMAGE_DATA=FILE:"textures/doom/rock4.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:rock5]
+IMAGE_DATA=FILE:"textures/doom/rock5.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:rockred1]
+IMAGE_DATA=FILE:"textures/doom/rockred1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:rockred2]
+IMAGE_DATA=FILE:"textures/doom/rockred2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:rockred3]
+IMAGE_DATA=FILE:"textures/doom/rockred3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:shawn1]
+IMAGE_DATA=FILE:"textures/doom/shawn1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:skin2]
+IMAGE_DATA=FILE:"textures/doom/skin2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:skinedge]
+IMAGE_DATA=FILE:"textures/doom/skinedge.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:skspine1]
+IMAGE_DATA=FILE:"textures/doom/skspine1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sp_dude1]
+IMAGE_DATA=FILE:"textures/doom/sp_dude1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sp_dude2]
+IMAGE_DATA=FILE:"textures/doom/sp_dude2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sp_dude7]
+IMAGE_DATA=FILE:"textures/doom/sp_dude7.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sp_dude8]
+IMAGE_DATA=FILE:"textures/doom/sp_dude8.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sp_face1]
+IMAGE_DATA=FILE:"textures/doom/sp_face1.png";
+SCALE=0.25; // old 128x96 : new 512x384
+
+[tex:starbr2]
+IMAGE_DATA=FILE:"textures/doom/starbr2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:starg2]
+IMAGE_DATA=FILE:"textures/doom/starg2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:starg3]
+IMAGE_DATA=FILE:"textures/doom/starg3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:stargr2]
+IMAGE_DATA=FILE:"textures/doom/stargr2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:startan2]
+IMAGE_DATA=FILE:"textures/doom/startan2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:startan3]
+IMAGE_DATA=FILE:"textures/doom/startan3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:stone2]
+IMAGE_DATA=FILE:"textures/doom/stone2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:stone3]
+IMAGE_DATA=FILE:"textures/doom/stone3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw1brcom]
+IMAGE_DATA=FILE:"textures/doom/sw1brcom.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw2brcom]
+IMAGE_DATA=FILE:"textures/doom/sw2brcom.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw1brown]
+IMAGE_DATA=FILE:"textures/doom/sw1brown.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw2brown]
+IMAGE_DATA=FILE:"textures/doom/sw2brown.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw1pipe]
+IMAGE_DATA=FILE:"textures/doom/sw1pipe.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw2pipe]
+IMAGE_DATA=FILE:"textures/doom/sw2pipe.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:tekbron1]
+IMAGE_DATA=FILE:"textures/doom/tekbron1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:tekwall1]
+IMAGE_DATA=FILE:"textures/doom/tekwall1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:tekwall4]
+IMAGE_DATA=FILE:"textures/doom/tekwall4.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:wood10]
+IMAGE_DATA=FILE:"textures/doom/wood10.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zdoorb1]
+IMAGE_DATA=FILE:"textures/doom/zdoorb1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zdoorf1]
+IMAGE_DATA=FILE:"textures/doom/zdoorf1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zeldoor]
+IMAGE_DATA=FILE:"textures/doom/zeldoor.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf10]
+IMAGE_DATA=FILE:"textures/doom/zzwolf10.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf11]
+IMAGE_DATA=FILE:"textures/doom/zzwolf11.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf12]
+IMAGE_DATA=FILE:"textures/doom/zzwolf12.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf13]
+IMAGE_DATA=FILE:"textures/doom/zzwolf13.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf1]
+IMAGE_DATA=FILE:"textures/doom/zzwolf1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf2]
+IMAGE_DATA=FILE:"textures/doom/zzwolf2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf3]
+IMAGE_DATA=FILE:"textures/doom/zzwolf3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf4]
+IMAGE_DATA=FILE:"textures/doom/zzwolf4.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf5]
+IMAGE_DATA=FILE:"textures/doom/zzwolf5.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf6]
+IMAGE_DATA=FILE:"textures/doom/zzwolf6.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf7]
+IMAGE_DATA=FILE:"textures/doom/zzwolf7.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:zzwolf9]
+IMAGE_DATA=FILE:"textures/doom/zzwolf9.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+
+// Textures, 256x128
+
+[tex:brovine2]
+IMAGE_DATA=FILE:"textures/doom/brovine2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:comptall]
+IMAGE_DATA=FILE:"textures/doom/comptall.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:gray7]
+IMAGE_DATA=FILE:"textures/doom/gray7.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:grayvine]
+IMAGE_DATA=FILE:"textures/doom/grayvine.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:gstone1]
+IMAGE_DATA=FILE:"textures/doom/gstone1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:gstone2]
+IMAGE_DATA=FILE:"textures/doom/gstone2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:gstvine1]
+IMAGE_DATA=FILE:"textures/doom/gstvine1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:gstvine2]
+IMAGE_DATA=FILE:"textures/doom/gstvine2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:midvine1]
+IMAGE_DATA=FILE:"textures/doom/midvine1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:midvine2]
+IMAGE_DATA=FILE:"textures/doom/midvine2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:pipe1]
+IMAGE_DATA=FILE:"textures/doom/pipe1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:pipe2]
+IMAGE_DATA=FILE:"textures/doom/pipe2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:pipe4]
+IMAGE_DATA=FILE:"textures/doom/pipe4.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:pipe6]
+IMAGE_DATA=FILE:"textures/doom/pipe6.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:skincut]
+IMAGE_DATA=FILE:"textures/doom/skincut.png";
+SCALE=0.5; // old 256x128 : new 512x256
+
+[tex:skinface]
+IMAGE_DATA=FILE:"textures/doom/skinface.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:skinlow]
+IMAGE_DATA=FILE:"textures/doom/skinlow.png";
+SCALE=0.25; // old 256x104 : new 1024x416
+
+[tex:skinmet1]
+IMAGE_DATA=FILE:"textures/doom/skinmet1.png";
+SCALE=0.5; // old 256x128 : new 512x256
+
+[tex:skinmet2]
+IMAGE_DATA=FILE:"textures/doom/skinmet2.png";
+SCALE=0.5; // old 256x128 : new 512x256
+
+[tex:skinscab]
+IMAGE_DATA=FILE:"textures/doom/skinscab.png";
+SCALE=0.5; // old 256x128 : new 512x256
+
+[tex:skinsymb]
+IMAGE_DATA=FILE:"textures/doom/skinsymb.png";
+SCALE=0.5; // old 256x128 : new 512x256
+
+[tex:skspine2]
+IMAGE_DATA=FILE:"textures/doom/skspine2.png";
+SCALE=0.25; // old 256x96 : new 1024x384
+
+[tex:sp_hot1]
+IMAGE_DATA=FILE:"textures/doom/sp_hot1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:stone]
+IMAGE_DATA=FILE:"textures/doom/stone.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:tekwall6]
+IMAGE_DATA=FILE:"textures/doom/tekwall6.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:wood1]
+IMAGE_DATA=FILE:"textures/doom/wood1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:wood3]
+IMAGE_DATA=FILE:"textures/doom/wood3.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:wood5]
+IMAGE_DATA=FILE:"textures/doom/wood5.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+// TODO: ZZZFACE1 .. ZZZFACE9 !!
+
+
+// Textures, misc sizes
+
+[tex:blodrip1]
+IMAGE_DATA=FILE:"textures/doom/blodrip1.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:blodrip2]
+IMAGE_DATA=FILE:"textures/doom/blodrip2.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:blodrip3]
+IMAGE_DATA=FILE:"textures/doom/blodrip3.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:blodrip4]
+IMAGE_DATA=FILE:"textures/doom/blodrip4.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:brnsmal1]
+IMAGE_DATA=FILE:"textures/doom/brnsmal1.png";
+SCALE=0.25; // old 64x64 : new 256x256
+
+[tex:brnsmal2]
+IMAGE_DATA=FILE:"textures/doom/brnsmal2.png";
+SCALE=0.25; // old 64x64 : new 256x256
+
+[tex:brnsmalc]
+IMAGE_DATA=FILE:"textures/doom/brnsmalc.png";
+SCALE=0.25; // old 64x64 : new 256x256
+
+[tex:brnsmall]
+IMAGE_DATA=FILE:"textures/doom/brnsmall.png";
+SCALE=0.25; // old 32x64 : new 128x256
+
+[tex:brnsmalr]
+IMAGE_DATA=FILE:"textures/doom/brnsmalr.png";
+SCALE=0.25; // old 32x64 : new 128x256
+
+[tex:compspan]
+IMAGE_DATA=FILE:"textures/doom/compspan.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:cratiny]
+IMAGE_DATA=FILE:"textures/doom/cratiny.png";
+SCALE=0.125; // old 64x16 : new 512x128
+
+[tex:dbrain1]
+IMAGE_DATA=FILE:"textures/doom/dbrain1.png";
+SCALE=0.125; // old 64x32 : new 512x256
+
+[tex:dbrain2]
+IMAGE_DATA=FILE:"textures/doom/dbrain2.png";
+SCALE=0.125; // old 64x32 : new 512x256
+
+[tex:dbrain3]
+IMAGE_DATA=FILE:"textures/doom/dbrain3.png";
+SCALE=0.125; // old 64x32 : new 512x256
+
+[tex:dbrain4]
+IMAGE_DATA=FILE:"textures/doom/dbrain4.png";
+SCALE=0.125; // old 64x32 : new 512x256
+
+[tex:doorblu]
+IMAGE_DATA=FILE:"textures/doom/doorblu.png";
+SCALE=0.25; // old 8x128 : new 32x512
+
+[tex:doorblu2]
+IMAGE_DATA=FILE:"textures/doom/doorblu2.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:doorred]
+IMAGE_DATA=FILE:"textures/doom/doorred.png";
+SCALE=0.25; // old 8x128 : new 32x512
+
+[tex:doorred2]
+IMAGE_DATA=FILE:"textures/doom/doorred2.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:dooryel]
+IMAGE_DATA=FILE:"textures/doom/dooryel.png";
+SCALE=0.25; // old 8x128 : new 32x512
+
+[tex:dooryel2]
+IMAGE_DATA=FILE:"textures/doom/dooryel2.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:doorstop]
+IMAGE_DATA=FILE:"textures/doom/doorstop.png";
+SCALE=0.25; // old 8x128 : new 32x512
+
+[tex:doortrak]
+IMAGE_DATA=FILE:"textures/doom/doortrak.png";
+SCALE=0.25; // old 8x128 : new 32x512
+
+[tex:lite3]
+IMAGE_DATA=FILE:"textures/doom/lite3.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:lite5]
+IMAGE_DATA=FILE:"textures/doom/lite5.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:liteblu1]
+IMAGE_DATA=FILE:"textures/doom/liteblu1.png";
+SCALE=0.25; // old 8x128 : new 32x512
+
+[tex:liteblu4]
+IMAGE_DATA=FILE:"textures/doom/liteblu4.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:nuke24]
+IMAGE_DATA=FILE:"textures/doom/nuke24.png";
+SCALE=0.25; // old 64x24 : new 256x96
+
+[tex:panbord1]
+IMAGE_DATA=FILE:"textures/doom/panbord1.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:panbord2]
+IMAGE_DATA=FILE:"textures/doom/panbord2.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:step4]
+IMAGE_DATA=FILE:"textures/doom/step4.png";
+SCALE=0.25; // old 32x16 : new 128x64
+
+[tex:step2]
+IMAGE_DATA=FILE:"textures/doom/step2.png";
+SCALE=0.25; // old 32x16 : new 128x64
+
+[tex:step5]
+IMAGE_DATA=FILE:"textures/doom/step5.png";
+SCALE=0.25; // old 32x16 : new 128x64
+
+[tex:step6]
+IMAGE_DATA=FILE:"textures/doom/step6.png";
+SCALE=0.25; // old 32x16 : new 128x64
+
+[tex:steplad1]
+IMAGE_DATA=FILE:"textures/doom/steplad1.png";
+SCALE=0.25; // old 64x16 : new 256x64
+
+[tex:steptop]
+IMAGE_DATA=FILE:"textures/doom/steptop.png";
+SCALE=0.25; // old 128x16 : new 512x64
+
+[tex:sw1exit]
+IMAGE_DATA=FILE:"textures/doom/sw1exit.png";
+SCALE=0.25; // old 32x72 : new 128x288
+
+[tex:sw2exit]
+IMAGE_DATA=FILE:"textures/doom/sw2exit.png";
+SCALE=0.25; // old 32x72 : new 128x288
+
+
+
+//------------ DOOM 1 Specific Textures ------------//
+
+[tex:sky1]
+IMAGE_DATA=FILE:"textures/doom/doom1/sky1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:sky2]
+IMAGE_DATA=FILE:"textures/doom/doom1/sky2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:sky3]
+IMAGE_DATA=FILE:"textures/doom/doom1/sky3.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:sky4]
+IMAGE_DATA=FILE:"textures/doom/doom1/sky4.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:brnpois]
+IMAGE_DATA=FILE:"textures/doom/doom1/brnpois.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:nukepois]
+IMAGE_DATA=FILE:"textures/doom/doom1/nukepois.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1brn1]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw1brn1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2brn1]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw2brn1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1stone]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw1stone.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2stone]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw2stone.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1ston2]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw1ston2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw2ston2]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw2ston2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sw1starg]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw1starg.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sw2starg]
+IMAGE_DATA=FILE:"textures/doom/doom1/sw2starg.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+// new ones --->
+
+[tex:ashwall]
+IMAGE_DATA=FILE:"textures/doom/doom1/ashwall.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:blodgr1]
+IMAGE_DATA=FILE:"textures/doom/doom1/blodgr1.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:blodgr2]
+IMAGE_DATA=FILE:"textures/doom/doom1/blodgr2.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:blodgr3]
+IMAGE_DATA=FILE:"textures/doom/doom1/blodgr3.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:blodgr4]
+IMAGE_DATA=FILE:"textures/doom/doom1/blodgr4.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:brnpois2]
+IMAGE_DATA=FILE:"textures/doom/doom1/brnpois2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:brnbigc]
+IMAGE_DATA=FILE:"textures/doom/doom1/brnbigc.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:brnbigl]
+IMAGE_DATA=FILE:"textures/doom/doom1/brnbigl.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:brnbigr]
+IMAGE_DATA=FILE:"textures/doom/doom1/brnbigr.png";
+SCALE=0.25; // old 32x128 : new 128x512
+
+[tex:brovine]
+IMAGE_DATA=FILE:"textures/doom/doom1/brovine.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:brownwel]
+IMAGE_DATA=FILE:"textures/doom/doom1/brownwel.png";
+SCALE=0.25; // old 250x72 : new 1000x288  !!!
+
+[tex:cempois]
+IMAGE_DATA=FILE:"textures/doom/doom1/cempois.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:compohso]
+IMAGE_DATA=FILE:"textures/doom/doom1/compohso.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:comp2]
+IMAGE_DATA=FILE:"textures/doom/doom1/comp2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:comptile]
+IMAGE_DATA=FILE:"textures/doom/doom1/comptile.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:compute1]
+IMAGE_DATA=FILE:"textures/doom/doom1/compute1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:compute2]
+IMAGE_DATA=FILE:"textures/doom/doom1/compute2.png";
+SCALE=0.25; // old 256x128 : new 1024x224
+
+[tex:compute3]
+IMAGE_DATA=FILE:"textures/doom/doom1/compute3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:doorhi]
+IMAGE_DATA=FILE:"textures/doom/doom1/doorhi.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:graydang]
+IMAGE_DATA=FILE:"textures/doom/doom1/graydang.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:ickdoor1]
+IMAGE_DATA=FILE:"textures/doom/doom1/ickdoor1.png";
+SCALE=0.25; // old 64x72 : new 256x288
+
+[tex:ickwall6]
+IMAGE_DATA=FILE:"textures/doom/doom1/ickwall6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:lite2]
+IMAGE_DATA=FILE:"textures/doom/doom1/lite2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:lite4]
+IMAGE_DATA=FILE:"textures/doom/doom1/lite4.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:lite96]
+IMAGE_DATA=FILE:"textures/doom/doom1/lite96.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:liteblu2]
+IMAGE_DATA=FILE:"textures/doom/doom1/liteblu2.png";
+SCALE=0.25; // old 16x128 : new 64x288
+
+[tex:liteblu3]
+IMAGE_DATA=FILE:"textures/doom/doom1/liteblu3.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:litemet]
+IMAGE_DATA=FILE:"textures/doom/doom1/litemet.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:litered]
+IMAGE_DATA=FILE:"textures/doom/doom1/litered.png";
+SCALE=0.25; // old 16x128 : new 64x512
+
+[tex:liteston]
+IMAGE_DATA=FILE:"textures/doom/doom1/liteston.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:nukeslad]
+IMAGE_DATA=FILE:"textures/doom/doom1/nukeslad.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:planet1]
+IMAGE_DATA=FILE:"textures/doom/doom1/planet1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:redwall1]
+IMAGE_DATA=FILE:"textures/doom/doom1/redwall1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:skinbord]
+IMAGE_DATA=FILE:"textures/doom/doom1/skinbord.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:skintek1]
+IMAGE_DATA=FILE:"textures/doom/doom1/skintek1.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:skintek2]
+IMAGE_DATA=FILE:"textures/doom/doom1/skintek2.png";
+SCALE=0.25; // old 256x128 : new 1024x512
+
+[tex:skulwal3]
+IMAGE_DATA=FILE:"textures/doom/doom1/skulwal3.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:skulwall]
+IMAGE_DATA=FILE:"textures/doom/doom1/skulwall.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sladrip1]
+IMAGE_DATA=FILE:"textures/doom/doom1/sladrip1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sladrip2]
+IMAGE_DATA=FILE:"textures/doom/doom1/sladrip2.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sladrip3]
+IMAGE_DATA=FILE:"textures/doom/doom1/sladrip3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sp_dude3]
+IMAGE_DATA=FILE:"textures/doom/doom1/sp_dude3.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sp_dude6]
+IMAGE_DATA=FILE:"textures/doom/doom1/sp_dude6.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:sp_rock1]
+IMAGE_DATA=FILE:"textures/doom/sp_rock1.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:sp_rock2]
+IMAGE_DATA=FILE:"textures/doom/doom1/sp_rock2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:startan1]
+IMAGE_DATA=FILE:"textures/doom/doom1/startan1.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:stongarg]
+IMAGE_DATA=FILE:"textures/doom/doom1/stongarg.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:stonpois]
+IMAGE_DATA=FILE:"textures/doom/doom1/stonpois.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+[tex:tekwall2]
+IMAGE_DATA=FILE:"textures/doom/doom1/tekwall2.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:tekwall3]
+IMAGE_DATA=FILE:"textures/doom/doom1/tekwall3.png";
+SCALE=0.25; // old 128x112 : new 512x448
+
+[tex:tekwall5]
+IMAGE_DATA=FILE:"textures/doom/doom1/tekwall5.png";
+SCALE=0.25; // old 128x128 : new 512x512
+
+[tex:woodskul]
+IMAGE_DATA=FILE:"textures/doom/doom1/woodskul.png";
+SCALE=0.25; // old 64x128 : new 256x512
+
+
