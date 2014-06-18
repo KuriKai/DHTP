@@ -3,7 +3,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/doorstop"
   Shininess = 0.7
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -11,7 +11,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/planet1"
   Shininess = 0.6
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -19,7 +19,7 @@ Reflection {
   Shiny map = "1x2test"
   Mask map = "masks/gstfont"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -27,7 +27,7 @@ Reflection {
   Shiny map = "1x2test"
   Mask map = "masks/gstfont"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -35,7 +35,7 @@ Reflection {
   Shiny map = "1x2test"
   Mask map = "masks/gstfont"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -43,7 +43,7 @@ Reflection {
   Shiny map = "1x2test"
   Mask map = "masks/1x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -51,7 +51,7 @@ Reflection {
   Shiny map = "1x2test"
   Mask map = "masks/1x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -59,14 +59,14 @@ Reflection {
   Shiny map = "1x2test"
   Mask map = "masks/1x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 Reflection {
   Texture = "GSTONE1"  # planet1
   Shiny map = "4x2test"
   Mask map = "masks/gstone1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -74,7 +74,7 @@ Reflection {
   Shiny map = "4x2test"
   Mask map = "masks/marbvine"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -82,7 +82,7 @@ Reflection {
   Shiny map = "4x2test"
   Mask map = "masks/marbvine"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -90,7 +90,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -98,7 +98,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -106,7 +106,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/1x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -114,7 +114,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -122,7 +122,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/1x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -130,7 +130,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -138,7 +138,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -146,7 +146,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -154,7 +154,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/2x2blank"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -162,21 +162,21 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
   Shininess = 0.3
-	Flags = ext
+	Flags nopwad
 }
 Reflection {
   Texture = "PANEL7"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
   Shininess = 0.3
-	Flags = ext
+	Flags nopwad
 }
 Reflection {
   Texture = "PANEL8"  # doorstop
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
   Shininess = 0.3
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -184,7 +184,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/PANEL6"
   Shininess = 0.3
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -192,7 +192,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/shawn"
   Shininess = 0.6
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -200,7 +200,14 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/shawn2"
   Shininess = 0.6
-	Flags = ext
+	Flags nopwad
+}
+
+Reflection {
+  Texture = "SPCDOOR4"
+  Shiny map = "2x2"
+  Mask map = "masks/SPCDOOR4LITE"
+  Shininess = 1.0
 }
 
 Reflection {
@@ -208,7 +215,7 @@ Reflection {
   Shiny map = "2x2"
   Mask map = "masks/support2"
   Shininess = 0.6
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -216,7 +223,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -224,7 +231,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -232,7 +239,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -240,7 +247,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -248,7 +255,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/sw2strtn"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -256,7 +263,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -264,7 +271,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1vine"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -272,7 +279,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -280,7 +287,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -288,7 +295,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -296,7 +303,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -304,7 +311,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -312,7 +319,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/switch1vine"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -320,7 +327,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/sw2strtn"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 
@@ -329,7 +336,7 @@ Reflection {
   Shiny map = "2x2c"
   Mask map = "masks/tekwall4_mask"
   Shininess = 0.8
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -337,7 +344,7 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/comptile"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 #---------------------------------------------------------------------------------
@@ -348,14 +355,14 @@ Reflection {
   Flat = "DEM1_5"  # starg3
   Shiny map = "1x2"
   Shininess = 0.2
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
   Flat = "FLOOR7_2"  # starg3
   Shiny map = "1x2"
   Shininess = 0.1
-	Flags = ext
+	Flags nopwad
 }
 
 Reflection {
@@ -363,5 +370,5 @@ Reflection {
   Shiny map = "1x2"
   Mask map = "masks/floor4_8"
   Shininess = 0.4
-	Flags = ext
+	Flags nopwad
 }
