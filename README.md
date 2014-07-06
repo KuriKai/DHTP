@@ -22,7 +22,7 @@ See the Readme_Flats, Readme_Walls, Readme_Walls_Doom1, Readme_Walls_Doom2, Read
 **** Participation ****
 -----------------------
 
-If you are intrested in joining in, head over to the DHTP website (http://dhtp.freelanzer.com/). Where you can access the blog, bug tracker(You don't need to register to post bugs), and forums. On registering on the forum, you will then be able to post up your new textures so the texture pack admin can add it to the pack (if they are better than currents ones or if they do not exist yet). There are a few important rules that I will outline here:
+If you are intrested in joining in, head over to the DHTP website (http://dhtp.freelanzer.com/) where you can download the compailed pack and the forums (http://dengine.net/forums/viewtopic.php?f=3&t=875#topic). On registering on the forum, you will then be able to post up your wip textures to get creative feedback. There are a few important rules that I will outline here:
 
 1. Anything you submit MUST be entirely your own work. You may not submit modifications of original id textures, as this constitutes copyright infringement.
 
