@@ -2,6 +2,7 @@ DHTP
 ====
 
 DOOM High-resolution Texture Project
+http://dhtp.freelanzer.com/
 
 ----------------------
 **** Introduction ****
@@ -16,7 +17,9 @@ The main goal of the DHTP is to provide the community with a space to easily con
 **** Copyright / Permissions ****
 ---------------------------------
 
-See the Readme_Flats, Readme_Walls, Readme_Walls_Doom1, Readme_Walls_Doom2, Readme_Walls_TNT, Readme_Walls_Plutonia,
+See the Readme_Flats, Readme_Walls, Readme_Walls_Doom1, Readme_Walls_Doom2, Readme_Walls_TNT, Readme_Walls_Plutonia.
+
+If you create textures for this project please release them under a free to use and edit licence(like the ones already in the pack. This will allow the community to help improve the textures in the future.)
 
 -----------------------
 **** Participation ****
