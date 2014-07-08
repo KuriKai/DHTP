@@ -75,7 +75,9 @@ chilvence and freelanzer together:
 bigdoor6
 
 Reinchard: Reinchard2@gmail.com
-bigdoor2, bigdoor4, brown1, brown96, brown144, browngrn, compblue, comptall, door3, exitsign, metal1, nuke24, starg1, starg3, stargr1, stargr1, startan3, startan2, stone, stone2, stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladpois, tekwall1
+bigdoor2, bigdoor4, brown1, brown96, brown144, browngrn, compblue, comptall, door3,  doorblu, doorred, doorstop, doortrak, dooryel, 
+exitsign, metal1, nuke24, starg1, starg3, stargr1, stargr2, startan3, startan2, stone, stone2, 
+stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladpois, tekwall1
 
 MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
@@ -102,7 +104,7 @@ Cpt Howdy: malfunction@accessky.net
 bstone1
 
 Fredrik Johansson: http://fredrik.mancubus.net/
-compsta1, compsta2, doorstop, shawn2
+compsta1, compsta2, shawn2
 
 Missacula:
 sladskul
@@ -123,8 +125,8 @@ Coen Zimmerman: tabun@planetquake.com http://www.tabun.nl/index.php
 bigdoor3, marbfac2, skinscab
 
 Envid:
-bigdoor6, doorblu, doorred, dooryel, doortrak, liteblu1, liteblu4, spcdoor3, starbr2,
-starg2, starg3, stargr1, stargr2, startan2, startan3 191
+bigdoor6,  liteblu1, liteblu4, spcdoor3, starbr2,
+starg2, startan3 191
 
 Zabnat :
 stone, skinlow, zimmer1, zimmer3, zimmer4, zimmer5, zimmer7, zimmer8, blakwal1, blakwal2,
