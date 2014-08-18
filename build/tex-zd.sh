@@ -34,7 +34,6 @@ cp $BDIR/README_WALLS_DOOM1.txt $BDIR/zdoom/README_WALLS_DOOM1.txt
 cp $BDIR/README_WALLS_DOOM2.txt $BDIR/zdoom/README_WALLS_DOOM2.txt
 cp $BDIR/README_WALLS_PLUTONIA.txt $BDIR/zdoom/README_WALLS_PLUTONIA.txt
 cp $BDIR/README_WALLS_TNT.txt $BDIR/zdoom/README_WALLS_TNT.txt
-yes | cp -ri $BDIR/textures-noshine/* $BDIR/zdoom/hires
 rm -r $BDIR/zdoom/hires/doom1
 cd $BDIR/zdoom
 echo ---------ziping pack---------

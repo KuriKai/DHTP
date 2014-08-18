@@ -44,17 +44,19 @@ If you are intrested in joining in, head over to the DHTP website (http://dhtp.f
 ---------------------------------
 
 Chilvence: chilvence@gmail.com
-blood1, blood2, blood3, blood4, ceil1_1, ceil3_1, ceil3_2, ceil4_1, ceil4_2, ceil4_3,
+ceil1_1, ceil3_1, ceil3_2, ceil4_1, ceil4_2, ceil4_3,
 ceil5_1, ceil5_2, comp01, dem1_5, dem1_6, flat_1, flat4, flat5, flat5_1, flat5_2,
 flat5_3, flat5_4, flat5_5, flat5_7, flat5_8, flat8, flat10, flat_14, floor0_1, floor0_2,
 floor0_3, floor1_1, floor1_7, floor4_6, floor5_2, floor5_3, floor6_1, floor6_2, floor7_1, floor7_2,
-fwater1, fwater2, fwater3, fwater4, grnrock, mflr8_1, mflr8_2, mflr8_3, mflr8_4, rrock10, 
+grnrock, mflr8_1, mflr8_2, mflr8_3, mflr8_4, rrock10, 
 rrock12, rrock13, rrock14, rrock19, rrock20, sflr6_1, sflr6_4, sflr7_1, sflr7_4, slime01,
 slime02, slime03, slime04, step1, step2, tlite6_1, tlite6_4, tlite6_5, tlite6_6, gate4.png
 
+Chilvence and KuriKai:
+blood1, blood2, blood3, blood4, fwater1, fwater2, fwater3, fwater4, lava1, lava2, lava3, lava4, nukage1, nukage2, nukage3
+
 KuriKai: eunbolt@gmail.com
-ceil1_2, ceil1_3, ceil3_5, ceil3_6, floor0_5, floor0_6, floor0_7, flat3, rrock17, cratop1,
-cratop2
+ceil1_2, ceil1_3, ceil3_5, ceil3_6, floor0_5, floor0_6, floor0_7, flat3, rrock17, cratop1, cratop2
 
 Freelanzer : http://freelanzer.com : freelanzer@gmail.com
 flat22, gate1, ceil5_1, flat5_6, flat23
@@ -68,8 +70,7 @@ flat9
 -----------------------------
 
 Harry: harryboam@hotmail.com
-rrock1, rrock2, rrock4, rrock05, rrock06, rrock07, rrock08, lava1, lava2, lava3,
-lava4, slime9, slime10, slime11, slime12
+rrock1, rrock2, rrock4, rrock05, rrock06, rrock07, rrock08 slime9, slime10, slime11, slime12
 
 esselfortium: sl4@mac.com
 cons1_1, cons1_5, cons1_7,
