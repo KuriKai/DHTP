@@ -2,7 +2,7 @@ DHTP
 ====
 
 DOOM High-resolution Texture Project
-http://dhtp.freelanzer.com/
+http://dhtp.hiriwa.com/
 
 ----------------------
 **** Introduction ****
@@ -25,7 +25,7 @@ If you create textures for this project please release them under a free to use 
 **** Participation ****
 -----------------------
 
-If you are intrested in joining in, head over to the DHTP website (http://dhtp.freelanzer.com/) where you can download the compailed pack and the forums (http://dengine.net/forums/viewtopic.php?f=3&t=875#topic). On registering on the forum, you will then be able to post up your wip textures to get creative feedback. There are a few important rules that I will outline here:
+If you are intrested in joining in, head over to the DHTP website (http://dhtp.hiriwa.com/) where you can download the compailed pack and the forums (http://dengine.net/forums/viewtopic.php?f=3&t=875#topic). On registering on the forum, you will then be able to post up your wip textures to get creative feedback. There are a few important rules that I will outline here:
 
 1. Anything you submit MUST be entirely your own work. You may not submit modifications of original id textures, as this constitutes copyright infringement.
 
