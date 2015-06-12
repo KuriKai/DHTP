@@ -71,7 +71,7 @@ sp_dude7, skinedge (based on dani's skin skinface)
 DaniJ: danij@dengine.net
 skspine1, skspine2, skinface, sw2skin, sw1skin
 
-chilvence and freelanzer together:
+chilvence, freelanzer, reinchard, kurikai together:
 bigdoor6
 
 Reinchard: Reinchard2@gmail.com
@@ -131,6 +131,8 @@ starg2, startan3 191
 Zabnat :
 stone, skinlow, zimmer1, zimmer3, zimmer4, zimmer5, zimmer7, zimmer8, blakwal1, blakwal2,
 pipe1, pipe2, pipe4, pipe6, blodrip1, blodrip2, blodrip3, blodrip4, fireblu1, fireblu2,
+
+Zabnat : modified by De-M-oN de-m-on@gmx.de and Kurikai
 firelav2, firelav3, firelava, firemag1, firemag2, firemag3, firewala, firewalb, firewall
 
 LStanley:
