@@ -55,6 +55,12 @@ sky1, sky2
 
 -----------------------------
 
+Mr.Hat and kurikai:
+slime1, slime2, slime3, slime4, slime5, slime8
+
+kurikai and unknown:
+a-vine1, a-vine2
+
 Zabnat,: modified by kurikai
 blodrip1, blodrip2, blodrip3, blodrip4,
 
