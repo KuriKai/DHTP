@@ -51,7 +51,7 @@ a-brbrk, a-brbrk2, a-brick1, a-brick3, a-brock2, a-brown4, a-dbri1, a-dbri2, a-m
 sw1skull, sw2skull
 
 KuriKai: eunbolt@gmail.com
-sky1, sky2
+sky1, sky2, fireblu1, fireblu2, arock2, arock3, arock4, arock5
 
 -----------------------------
 
