@@ -43,7 +43,7 @@ If you are intrested in joining in, head over to the DHTP website (http://dhtp.f
 **** Credits & Contributions ****
 ---------------------------------
 
-Chilvence: chilvence@gmail.com Released under the gpl2 (ADD link to GPL website)
+Chilvence: chilvence@gmail.com
 ashwall2, ashwall3, ashwall6, ashwall7, bigbrik1, bigbrik2, bigbrik3, bigdoor1, brick1
 brick2, brick5, brick6, brick7, brick8, brick9,  bronze1, bronze2, bronze3, bronze4,
 brown1, brown96, brown144, browngrn, brownhug, bstone2, compspan, 
@@ -52,7 +52,7 @@ gstone2, gstsatyr, marbgray, marble1, marble2, marble3, marblod1, metal, metal2,
 metal4, metal5, metal6, metal7, plat1, sksnake1, sksnake2, sladwall, spcdoor1, spcdoor2,
 sp_hot1, step4, steptop, steplad1, stone2, stone3, stucco, stucco1, stucco2, stucco3,
 support3, swgarg, swlion, tanrock7, teklite, teklite2, woodgarg, tekbron1, tekbron2, wood1, bigdoor5 (thanks for merging mr.chris),
-wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock, sw1comp, sw2comp wood4(freelanzers skulls),
+wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock, sw1comp, sw2comp wood4(freelanzers skulls), sw1gston, sw2gston
 
 KuriKai: eunbolt@gmail.com Released under the gpl2 (ADD link to GPL website)
 crate1, crate2, crate3, cratelit, cratwide, cratiny, tanrock3, pancase1, pancase2, panbord1,
@@ -81,6 +81,7 @@ stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladpois, tekwall1, 
 
 MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
+
 
 -----------------------------
 
