@@ -54,8 +54,8 @@ sp_hot1, step4, steptop, steplad1, stone2, stone3, stucco, stucco1, stucco2, stu
 support3, swgarg, swlion, tanrock7, teklite, teklite2, woodgarg, tekbron1, tekbron2, wood1, bigdoor5 (thanks for merging mr.chris),
 wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock, sw1comp, sw2comp wood4(freelanzers skulls), sw1gston, sw2gston
 
-KuriKai: eunbolt@gmail.com Released under the gpl2 (ADD link to GPL website)
-crate1, crate2, crate3, cratelit, cratwide, cratiny, tanrock3, pancase1, pancase2, panbord1,
+KuriKai: eunbolt@gmail.com
+crate1, crate2, crate3, cratelit, cratwide, cratiny, tanrock3, tanrock4 pancase1, pancase2, panbord1,
 panbord2, panbook, sw1panel, sw2panel, sw1tek, sw2tek, brick11, brick12, tekgren1, tekgren2, 
 tekgren3, tekgren4, tekgren5, panel1, panel2, panel3, panel4, panel5, panel6, gray1,
 graybig, graytall, gray4, gray5, gray7, panblack, panred, panblue, panel7, panel8,

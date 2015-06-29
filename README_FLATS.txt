@@ -56,7 +56,7 @@ Chilvence and KuriKai:
 blood1, blood2, blood3, blood4, fwater1, fwater2, fwater3, fwater4, lava1, lava2, lava3, lava4, nukage1, nukage2, nukage3
 
 KuriKai: eunbolt@gmail.com
-ceil1_2, ceil1_3, ceil3_5, ceil3_6, floor0_5, floor0_6, floor0_7, flat3, , cratop1, cratop2
+ceil1_2, ceil1_3, ceil3_5, ceil3_6, floor0_5, floor0_6, floor0_7, flat3, , cratop1, cratop2, rrock09
 
 Freelanzer : http://freelanzer.com : freelanzer@gmail.com
 flat22, gate1, ceil5_1, flat5_6, flat23
