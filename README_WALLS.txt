@@ -20,7 +20,8 @@ The main goal of the DHTP is to provide the community with a space to easily con
 *)You MAY use/edit Reinchard's Textures and Flats for any use you see fit ONLY IF you give credit.
 *)You MAY use/edit Tea Monster's Textures and Flats for any use you see fit ONLY IF you give credit.
 *)You MAY use [MR_ROCKET's, Mr.Rocket's] Textures and Flats for any use you see fit ONLY IF you credit him with Real name (Ron Goode).
-*)You MAY (use/edit)[MR_ROCKET's, Mr.Rocket's] SPACEW2 Texture ONLY IF you give credit.
+*)You MAY use/edit[MR_ROCKET's, Mr.Rocket's] SPACEW2 Texture ONLY IF you give credit.
+*)You MAY use/edit Doomenator's Textures and Flats for any use you see fit. 
 *)For all other textures, you need to ask permission from the author to redistribute.
 
 
@@ -62,6 +63,10 @@ graybig, graytall, gray4, gray5, gray7, panblack, panred, panblue, panel7, panel
 panel9, gray2, ickwall1, ickwall2, ickwall3, ickwall4, ickwall5, ickwall7, modwall3, modwall4,
 sp_face1, sw1exit, sw2exit, sw1gray, sw2gray, swgray1, sw2gray1(bstone3 and bricklit based off of Chilvences bstone2 and brick1 textures) (graypois back by Kurikai poison sign by unknown), grayvine (based of unknown's vine texture), sw1vine (based of unknown's vine texture), sw2vine (based of unknown's vine texture), gstvine (based of unknown's vine texture), gstvine2 (based of unknown's vine texture), pipes, exitdoor, exitston (based on stone2 by chilvence)
 lite3, lite5, modwall1, modwall2, wood10, shawn1(based on shawn2 by Fredrik Johansson) wood6, wood7, wood8, wood9, midspace, shawn2, skincut, skinmet1, skinsymb,  starg3, sw2strtn, dbrain1, dbrain2, dbrain3, dbrain4
+
+
+KuriKai: Doomenator:
+sw1mod1, sw2mod1
 
 Freelanzer : http://freelanzer.com : freelanzer@gmail.com
 sw1skull, sw2skull, sk_left, sk_right, woodskul, sp_dude8, zeldoor, zzwolf1, zzwolf11,

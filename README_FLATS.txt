@@ -21,6 +21,7 @@ The main goal of the DHTP is to provide the community with a space to easily con
 *)You MAY use/edit Tea Monster's Textures and Flats for any use you see fit ONLY IF you give credit.
 *)You MAY use [MR_ROCKET's, Mr.Rocket's] Textures and Flats for any use you see fit ONLY IF you credit him with Real name (Ron Goode).
 *)You MAY (use/edit)[MR_ROCKET's, Mr.Rocket's] SPACEW2 Texture ONLY IF you give credit.
+*)You MAY use/edit Doomenator's Textures and Flats for any use you see fit. 
 *)For all other textures, you need to ask permission from the author to redistribute.
 
 
