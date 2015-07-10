@@ -19,6 +19,13 @@ then
 else
 	echo "not found"
 fi
+echo "looking for $BDIR/built"
+if [ ! -d "$BDIR/built" ] #if the built folder does not exist, create it as this is where the compiled pack is placed
+then
+    mkdir $BDIR/built
+else
+	echo "built folder already exists, doing nothing"
+fi
 echo ---------starting to create the dhtp for the zdoom engine and compatible engines---------
 mkdir $BDIR/zdoom
 echo ---------copying textures---------

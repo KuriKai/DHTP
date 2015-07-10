@@ -17,7 +17,6 @@ else
 fi
  
 echo ----Starting Doomsday pack----
-cd "$(echo $SDIR)" #cd to the scripts dir
 source $SDIR/tex-deng.sh
 echo ----starting Risen3d pack----
 cd "$(echo $SDIR)" #cd to the scripts dir

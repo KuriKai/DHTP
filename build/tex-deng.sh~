@@ -26,7 +26,7 @@ if [ ! -d "$BDIR/built" ] #if the built folder does not exist, create it as this
 then
     mkdir $BDIR/built
 else
-	echo "built folder already exists, doing nothing"
+	echo "built folder already exists"
 fi
 #create the new Info file
 echo "Creating the Info file"
