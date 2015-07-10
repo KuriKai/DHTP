@@ -57,10 +57,9 @@ wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock, sw1comp, sw2comp wood4
 
 KuriKai: eunbolt@gmail.com
 crate1, crate2, crate3, cratelit, cratwide, cratiny, tanrock3, tanrock4 pancase1, pancase2, panbord1,
-panbord2, panbook, sw1panel, sw2panel, sw1tek, sw2tek, brick11, brick12, tekgren1, tekgren2, 
-tekgren3, tekgren4, tekgren5, panel1, panel2, panel3, panel4, panel5, panel6, gray1,
-graybig, graytall, gray4, gray5, gray7, panblack, panred, panblue, panel7, panel8,
-panel9, gray2, ickwall1, ickwall2, ickwall3, ickwall4, ickwall5, ickwall7, modwall3, modwall4,
+panbord2, panbook, sw1tek, sw2tek, brick11, brick12, tekgren1, tekgren2, 
+tekgren3, tekgren4, tekgren5,  gray1,
+graybig, graytall, gray4, gray5, gray7, panblack, panred, panblue,  gray2, ickwall1, ickwall2, ickwall3, ickwall4, ickwall5, ickwall7, modwall3, modwall4,
 sp_face1, sw1exit, sw2exit, sw1gray, sw2gray, swgray1, sw2gray1(bstone3 and bricklit based off of Chilvences bstone2 and brick1 textures) (graypois back by Kurikai poison sign by unknown), grayvine (based of unknown's vine texture), sw1vine (based of unknown's vine texture), sw2vine (based of unknown's vine texture), gstvine (based of unknown's vine texture), gstvine2 (based of unknown's vine texture), pipes, exitdoor, exitston (based on stone2 by chilvence)
 lite3, lite5, modwall1, modwall2, wood10, shawn1(based on shawn2 by Fredrik Johansson) wood6, wood7, wood8, wood9, midspace, shawn2, skincut, skinmet1, skinsymb,  starg3, sw2strtn, dbrain1, dbrain2, dbrain3, dbrain4
 
@@ -82,7 +81,7 @@ bigdoor6
 Reinchard: Reinchard2@gmail.com
 bigdoor2, bigdoor4, brown1, brown96, brown144, browngrn, compblue, comptall, door3,  doorblu, doorred, doorstop, doortrak, dooryel, 
 exitsign, metal1, nuke24, starg1, starg3, stargr1, stargr2, startan3, startan2, stone, stone2, 
-stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladpois, tekwall1, rock1, tanrock5, tanrock8, zzwolf9
+stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladpois, tekwall1, rock1, tanrock5, tanrock8, zzwolf9, sw1panel, sw2panel, panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9,
 
 MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
