@@ -80,7 +80,7 @@ cp $BDIR/definitions/dhtp-doom2lights.ded $BDIR/doomsday/dhtp-doom2-plutlights.d
 cp $BDIR/definitions/dhtp-doom2lights.ded $BDIR/doomsday/dhtp-doom2tntlights.ded
 cp $BDIR/Info $BDIR/doomsday/Info
 cp -r $BDIR/shinemaps/lightmaps $BDIR/doomsday
-cp $BDIR/dhtp-shinmaps.ded $BDIR/doomsday/dhtp-shinmaps.ded
+cp $BDIR/definitions/dhtp-shinmaps.ded $BDIR/doomsday/dhtp-shinmaps.ded
 cd $BDIR/doomsday
 echo ---------ziping pack---------
 zip -r doomsday . -i Info \*.png \*.ded \*.txt

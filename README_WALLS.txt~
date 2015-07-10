@@ -50,7 +50,7 @@ brick2, brick5, brick6, brick7, brick8, brick9,  bronze1, bronze2, bronze3, bron
 brown1, brown96, brown144, browngrn, brownhug, bstone2, compspan, 
 compwerd crackle2, crackle4, door1, doorblu2, doorred2, dooryel2, gstgarg, gstlion, gstone1,
 gstone2, gstsatyr, marbgray, marble1, marble2, marble3, marblod1, metal, metal2, metal3,
-metal4, metal5, metal6, metal7, plat1, sksnake1, sksnake2, sladwall, spcdoor1, spcdoor2,
+metal4, metal5, metal6, metal7, plat1, sksnake1, sksnake2, spcdoor1, spcdoor2,
 sp_hot1, step4, steptop, steplad1, stone2, stone3, stucco, stucco1, stucco2, stucco3,
 support3, swgarg, swlion, tanrock7, teklite, teklite2, woodgarg, tekbron1, tekbron2, wood1, bigdoor5 (thanks for merging mr.chris),
 wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock, sw1comp, sw2comp wood4(freelanzers skulls), sw1gston, sw2gston
@@ -81,7 +81,7 @@ bigdoor6
 Reinchard: Reinchard2@gmail.com
 bigdoor2, bigdoor4, brown1, brown96, brown144, browngrn, compblue, comptall, door3,  doorblu, doorred, doorstop, doortrak, dooryel, 
 exitsign, metal1, nuke24, starg1, starg3, stargr1, stargr2, startan3, startan2, stone, stone2, 
-stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladpois, tekwall1, rock1, tanrock5, tanrock8, zzwolf9, sw1panel, sw2panel, panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9,
+stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladwall, sladpois, sladskul, tekwall1, rock1, tanrock5, tanrock8, zzwolf9, sw1panel, sw2panel, panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9,
 
 MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
@@ -110,9 +110,6 @@ bstone1
 
 Fredrik Johansson: http://fredrik.mancubus.net/
 compsta1, compsta2, shawn2
-
-Missacula:
-sladskul
 
 Dorian gray: 
 brick3, brick4
