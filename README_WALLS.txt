@@ -1,3 +1,14 @@
+--------------
+**** DHTP ****
+--------------
+
+DOOM High-resolution Texture Project
+Download	http://dhtp.hiriwa.com/
+Github		https://github.com/KuriKai/DHTP/
+Forum		http://dengine.net/forums/viewtopic.php?f=3&t=875#topic
+
+
+
 ----------------------
 **** Introduction ****
 ----------------------
@@ -15,12 +26,12 @@ The main goal of the DHTP is to provide the community with a space to easily con
 
 *)You MAY use/edit Chilvence's Textures and Flats for any use you see fit ONLY IF you give credit.
 *)You MAY use/edit KuriKai's Textures and Flats for any use you see fit as ONLY IF you give credit.
-*)You MAY use/edit Freelanzer's Textures and Flats for any use you see fit ONLY IF you credit him with Real name (Jacob Østergaard), email address(freelanzer@gmail.com), and website (http://freelanzer.com)".
+*)You MAY use/edit Freelanzer's Textures and Flats for any use you see fit ONLY IF you credit him with Real name (Jacob Østergaard), email address(freelanzer@gmail.com).
 *)You MAY use/edit DaniJ's Textures and Flats for any use you see fit.
 *)You MAY use/edit Reinchard's Textures and Flats for any use you see fit ONLY IF you give credit.
 *)You MAY use/edit Tea Monster's Textures and Flats for any use you see fit ONLY IF you give credit.
 *)You MAY use [MR_ROCKET's, Mr.Rocket's] Textures and Flats for any use you see fit ONLY IF you credit him with Real name (Ron Goode).
-*)You MAY use/edit[MR_ROCKET's, Mr.Rocket's] SPACEW2 Texture ONLY IF you give credit.
+*)You MAY use/edit [MR_ROCKET's, Mr.Rocket's] SPACEW2 Texture ONLY IF you give credit.
 *)You MAY use/edit Doomenator's Textures and Flats for any use you see fit. 
 *)For all other textures, you need to ask permission from the author to redistribute.
 
@@ -30,13 +41,19 @@ The main goal of the DHTP is to provide the community with a space to easily con
 **** Participation ****
 -----------------------
 
-If you are intrested in joining in, head over to the DHTP website (http://dhtp.freelanzer.com/). Where you can access the blog, bug tracker(You don't need to register to post bugs), and forums. On registering on the forum, you will then be able to post up your new textures so the texture pack admin can add it to the pack (if they are better than currents ones or if they do not exist yet). There are a few important rules that I will outline here:
+*)If you create textures for this project please release them under a free to use and edit licence(like the ones already in the pack. This will allow the community to help improve the textures in the future.)
 
-1. Anything you submit MUST be entirely your own work. You may not submit modifications of original id textures, as this constitutes copyright infringement.
+*)If you are intrested in participating, head over to the Forum discussion and post your textures for inclusion in the pack and discussion.
+http://dengine.net/forums/viewtopic.php?f=3&t=875#topic
 
-2. Only PNG images can be uploaded. This keeps the size down and the quality flawless, but please remember to use maximum compression, as some tools do not use it by default. Pngcrush and Pngout are both good programs to do this. A more detailed look at PNG files can be found here: http://www.libpng.org/pub/png/
+*)Also you can report bugs and see the current WIP pack/improvments at GitHub
+https://github.com/KuriKai/DHTP/
 
-3. Public domain textures, (while not preffered) may be submitted, as long as a link is given to the site they were obtained.
+*)For the textures to be in the pack there are a few important rules that I will outline here:
+
+1. Anything you submit MUST be entirely your own work or modifications of permission granted DHTP textures. You may not submit modifications of original id textures, as this constitutes copyright infringement.
+
+2. Only PNG images can be uploaded. This keeps the size down and the quality flawless.
 
 
 
@@ -86,6 +103,8 @@ stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladwall, sladpois, 
 MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
 
+Doomenator:
+rockred1, rockred2, rockred3
 
 -----------------------------
 

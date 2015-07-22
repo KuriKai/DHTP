@@ -1,8 +1,13 @@
-DHTP
-====
+--------------
+**** DHTP ****
+--------------
 
 DOOM High-resolution Texture Project
 http://dhtp.hiriwa.com/
+Github		https://github.com/KuriKai/DHTP/
+Forum		http://dengine.net/forums/viewtopic.php?f=3&t=875#topic
+
+
 
 ----------------------
 **** Introduction ****
@@ -13,6 +18,8 @@ Now it has grown into the DHTP (Doom Hires Texture Project) which is a continuat
 
 The main goal of the DHTP is to provide the community with a space to easily contribute their own works, as well as offering a steady stream of feedback from both site visitors and administrators. It will also be a lot more tightly controlled than its predescessor, in regards to both copyrights and quality control.
 
+
+
 ---------------------------------
 **** Copyright / Permissions ****
 ---------------------------------
@@ -21,17 +28,23 @@ See the Readme_Flats, Readme_Walls, Readme_Walls_Doom1, Readme_Walls_Doom2, Read
 
 If you create textures for this project please release them under a free to use and edit licence(like the ones already in the pack. This will allow the community to help improve the textures in the future.)
 
+
+
 -----------------------
 **** Participation ****
 -----------------------
 
-If you are intrested in joining in, head over to the DHTP website (http://dhtp.hiriwa.com/) where you can download the compailed pack and the forums (http://dengine.net/forums/viewtopic.php?f=3&t=875#topic). On registering on the forum, you will then be able to post up your wip textures to get creative feedback. There are a few important rules that I will outline here:
+*)If you are intrested in participating, head over to the Forum discussion and post your textures for inclusion in the pack and discussion.
+http://dengine.net/forums/viewtopic.php?f=3&t=875#topic
 
-1. Anything you submit MUST be entirely your own work. You may not submit modifications of original id textures, as this constitutes copyright infringement.
+*)Also you can report bugs and see the current WIP pack/improvments at GitHub
+https://github.com/KuriKai/DHTP/
 
-2. Only PNG images can be uploaded. This keeps the size down and the quality flawless, but please remember to use maximum compression, as some tools do not use it by default. Pngcrush and Pngout are both good programs to do this. A more detailed look at PNG files can be found here: http://www.libpng.org/pub/png/
+*)For the textures to be in the pack there are a few important rules that I will outline here:
 
-3. Public domain textures, (while not preffered) may be submitted, as long as a link is given to the site they were obtained.
+1. Anything you submit MUST be entirely your own work or modifications of permission granted DHTP textures. You may not submit modifications of original id textures, as this constitutes copyright infringement.
+
+2. Only PNG images can be uploaded. This keeps the size down and the quality flawless.
 
 
 
