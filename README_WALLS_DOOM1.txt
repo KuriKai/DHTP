@@ -74,10 +74,13 @@ stonpois(combined textures by kurikai) sw1stone, sw2stone, comptile (combined by
 Tea Monster: Tea_monster@yahoo.com
 step2
 
+Doomenator:
+cempois
+
 -----------------------------
 
 Created by unknown, Touched up by KuriKai
-cempois, midvine1 (based of unknown's vine texture)
+midvine1 (based of unknown's vine texture)
 
 Zabnat :
 blodgr1, blodgr2, blodgr3, blodgr4,

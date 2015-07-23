@@ -104,13 +104,10 @@ MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
 
 Doomenator:
-rockred1, rockred2, rockred3
+rockred1, rockred2, rockred3, cement1, cement2, cement3, cement4, cement5, cement6, cement7, cement8, cement9, sw1cmt,
+sw2cmt
 
 -----------------------------
-
-Created by unknown, Touched up by KuriKai
-cement1, cement2, cement3, cement4, cement5, cement6, cement7, cement8, cement9, sw1cmt,
-sw2cmt
 
 Created by unknown, Touched up by FreeLanZer and KuriKai
 skin2
