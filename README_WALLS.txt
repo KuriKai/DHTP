@@ -98,7 +98,7 @@ bigdoor6
 Reinchard: Reinchard2@gmail.com
 bigdoor2, bigdoor4, brown1, brown96, brown144, browngrn, compblue, comptall, door3,  doorblu, doorred, doorstop, doortrak, dooryel, 
 exitsign, metal1, sw1metal, sw2metal, nuke24, starg1, starg3, stargr1, stargr2, startan3, startan2, stone, stone2, 
-stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladwall, sladpois, sladskul, tekwall1, rock1, tanrock5, tanrock8, zzwolf9, sw1panel, sw2panel, panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9,
+stone3(ick texture kurikai), step6, lite3, lite5, liteblu4, sladwall, sladpois, sladskul, tekwall1, rock1, tanrock5, tanrock8, zzwolf9, sw1panel, sw2panel, panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9, sw1slad, sw2slad
 
 MR_ROCKET: mrrocket2001@hotmail.com
 brick10, brick11, brick12, spacew2, spcdoor4
