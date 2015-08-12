@@ -4,21 +4,9 @@ datestamp=$(date +%Y%m%d)
 script_path=$(cd "$(dirname "$0")" ; pwd -P)
 base_path=$(dirname "$script_path")
 
-#remove the old zdoom build setup folder if it exists
-if [ -d "$base_path/zdoom" ]; then
-	echo "found, removing the old risen3d build folder"
-    rm -r $base_path/zdoom
-else
-	echo "not found"
-fi
+rm -r $base_path/zdoom
 
-#if the built folder does not exist, create it as this is where the compiled pack is placed
-echo "looking for $base_path/built"
-if [ ! -d "$base_path/built" ]; then
-    mkdir $base_path/built
-else
-	echo "built folder already exists, doing nothing"
-fi
+mkdir $base_path/built
 
 echo ---------starting to create the dhtp for the zdoom engine and compatible engines---------
 mkdir $base_path/zdoom
@@ -41,7 +29,7 @@ cd $base_path/zdoom
 echo ---------ziping pack---------
 zip -r zdoom . -i \*.png \*.txt
 echo renaming and adding date of compile
-mv zdoom.zip ../built/zdoom-dhtp-20$mydate.pk3
+mv zdoom.zip ../built/zdoom-dhtp-$datestamp.pk3
 cd ..
 
 echo ---------Complete---------
