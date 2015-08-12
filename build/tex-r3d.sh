@@ -34,9 +34,8 @@ for filename in "$base_path/docs/"*; do
 done
 
 echo ---------ziping pack---------
-zip -r $base_path/risen3d . -i \*.png \*.txt
-
-echo ---------renaming, adding date of compile, and moving to the built folder---------
-mv $base_path/risen3d.zip $base_path/built/r3d-dhtp-$datestamp.zip
+pushd $base_path
+zip -r ./built/r3d-dhtp-$datestamp.zip ./risen3d -i \*.png \*.txt
+popd
 
 echo ---------Complete---------

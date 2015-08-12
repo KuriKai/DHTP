@@ -25,8 +25,8 @@ for filename in "$base_path/docs/"*; do
 done
 
 echo ---------ziping pack---------
-zip -r $base_path/zdoom . -i \*.png \*.txt
-echo ---------renaming and adding date of compile---------
-mv $base_path/zdoom.zip $base_path/built/zdoom-dhtp-$datestamp.pk3
+pushd $base_path
+zip -r ./built/zdoom-dhtp-$datestamp.pk3 ./zdoom -i \*.png \*.txt
+popd
 
 echo ---------Complete---------
