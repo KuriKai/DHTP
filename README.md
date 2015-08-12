@@ -14,7 +14,7 @@ DOOM High-resolution Texture Project
 ----------------------
 
 The DHTP (DOOM High-resolution Texture Project) is a community driven project that had is birth as the D2RP (Doom 2 Retexture project). That project initially had a good start, but was unfortunately misguided during the course of its development, and couldn't realistically be rescued without a lot of attention. Thus, JDTP (jdoom texture pack) came into being (Thanks to Chilvence). To repair the damage and salvage what could be salvaged.
-Now it has grown into the DHTP (Doom Hires Texture Project) which is a continuation of the JDTP but with all high resolution texture capable ports in mind.
+Now it has grown into the DHTP which is a continuation of the JDTP but with all high resolution texture capable ports in mind.
 
 The main goal of the DHTP is to provide the community with a space to easily contribute their own works, as well as offering a steady stream of feedback from both site visitors and administrators. It will also be a lot more tightly controlled than its predecessor, in regards to both copyrights and quality control.
 

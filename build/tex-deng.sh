@@ -1,40 +1,31 @@
 #!/bin/bash
-#this file is released into the public domain, do what you will with it, i'm not responsible for what hapens with you using it#
 
-#get date
-export mydate=`date +%y%m%d`
+datestamp=$(date +%Y%m%d)
+script_path=$(cd "$(dirname "$0")" ; pwd -P)
+base_path=$(dirname "$script_path")
 
-#build directory base
-SDIR="$( cd "$( dirname "$0" )" && pwd )" #Get the scripts directory
-cd "$(echo $SDIR)" #cd to the scripts dir
-cd ../ #go up one level to where the DHTP base folder is
-BDIR=$(pwd) #set the base directory to the current directory
-echo $BDIR #print base dir (Example = /media/lvm/Art/DHTP)
-echo "$BDIR/Info"
-#starting Doomsday pack
-#remove the old Info file if it exists
-echo "looking for $BDIR/Info"
-if [ -f "$BDIR/Info" ]
-then
-	echo "found, removing old Info file"
-    rm Info
+echo "looking for $base_path/Info"
+if [ -f "$base_path/Info" ]; then
+	echo "$base_path/Info found, removing old Info file"
+  rm "$base_path/Info"
 else
-	"not found"
+	"$base_path/Info not found"
 fi
-echo "looking for $BDIR/built"
-if [ ! -d "$BDIR/built" ] #if the built folder does not exist, create it as this is where the compiled pack is placed
-then
-    mkdir $BDIR/built
+
+#if the built folder does not exist, create it as this is where the compiled pack is placed
+echo "looking for $base_path/built"
+if [ ! -d "$base_path/built" ]; then
+    mkdir $base_path/built
 else
 	echo "built folder already exists, doing nothing"
 fi
-#create the new Info file
+
 echo "Creating the Info file"
 cat > Info << EOF
-name: Doom High-resolution Texture Project
+name: DOOM High-resolution Texture Project
 
 language english (
-  version: 20$mydate
+  version: $datestamp
   summary: This pack replaces doom's textures, with high resolution versions.
   contact: eunbolt@gmail.com
   author: see the README files contained in the pk3
@@ -47,43 +38,47 @@ language english (
 component: game-jdoom
 
 EOF
+
 #remove the old Doomsday build setup folder if it exists
 
-echo "looking for $BDIR/doomsday"
-if [ -d "$BDIR/doomsday" ]
-then
+echo "looking for $base_path/doomsday"
+if [ -d "$base_path/doomsday" ]; then
 	echo "found, removing the old doomsday build folder"
-    rm -r $BDIR/doomsday
+  rm -r $base_path/doomsday
 else
 	echo "not found"
 fi
+
 echo ---------starting to create the dhtp for the doomsday engine and compatible engines---------
-#create the new doomsday folder
 echo "Creating the doomsday folder"
-mkdir $BDIR/doomsday
+mkdir $base_path/doomsday
+
 echo ---------copying textures---------
-cp -r $BDIR/textures $BDIR/doomsday/textures
-cp $BDIR/doomsday/textures/doom1/* $BDIR/doomsday/textures
-rm -r $BDIR/doomsday/textures/doom1
+cp -r $base_path/textures $base_path/doomsday/textures
+cp $base_path/doomsday/textures/doom1/* $base_path/doomsday/textures
+rm -r $base_path/doomsday/textures/doom1
+
 echo ---------copying flats---------
-cp -r $BDIR/flats $BDIR/doomsday/flats
+cp -r $base_path/flats $base_path/doomsday/flats
+
 echo ---------copying readmes---------
-cp $BDIR/README_FLATS.txt $BDIR/doomsday/README_FLATS.txt
-cp $BDIR/README_WALLS.txt $BDIR/doomsday/README_WALLS.txt
-cp $BDIR/README_WALLS_DOOM1.txt $BDIR/doomsday/README_WALLS_DOOM1.txt
-cp $BDIR/README_WALLS_DOOM2.txt $BDIR/doomsday/README_WALLS_DOOM2.txt
-cp $BDIR/README_WALLS_PLUTONIA.txt $BDIR/doomsday/README_WALLS_PLUTONIA.txt
-cp $BDIR/README_WALLS_TNT.txt $BDIR/doomsday/README_WALLS_TNT.txt
-cp $BDIR/definitions/dhtp-doom1lights.ded $BDIR/doomsday/dhtp-doom1lights.ded
-cp $BDIR/definitions/dhtp-doom2lights.ded $BDIR/doomsday/dhtp-doom2lights.ded
-cp $BDIR/definitions/dhtp-doom2lights.ded $BDIR/doomsday/dhtp-doom2-plutlights.ded
-cp $BDIR/definitions/dhtp-doom2lights.ded $BDIR/doomsday/dhtp-doom2tntlights.ded
-cp $BDIR/Info $BDIR/doomsday/Info
-cp -r $BDIR/shinemaps/lightmaps $BDIR/doomsday
-cp $BDIR/definitions/dhtp-shinmaps.ded $BDIR/doomsday/dhtp-shinmaps.ded
-cd $BDIR/doomsday
-echo ---------ziping pack---------
+for filename in "$base_path/docs/*"; do
+  cat "$base_path/README.md" "$filename" "$base_path/docs/OUTRO.txt" > "$base_path/doomsday/README_$filename"
+done
+
+cp $base_path/definitions/dhtp-doom1lights.ded $base_path/doomsday/dhtp-doom1lights.ded
+cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2lights.ded
+cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2-plutlights.ded
+cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2tntlights.ded
+cp $base_path/Info $base_path/doomsday/Info
+cp -r $base_path/shinemaps/lightmaps $base_path/doomsday
+cp $base_path/definitions/dhtp-shinmaps.ded $base_path/doomsday/dhtp-shinmaps.ded
+cd $base_path/doomsday
+
+echo ---------zipping pack---------
 zip -r doomsday . -i Info \*.png \*.ded \*.txt
+
 echo ---------renaming, adding date of compile, and moving to the built folder---------
-mv doomsday.zip ../built/deng-dhtp-20$mydate.pk3
+mv doomsday.zip ../built/deng-dhtp-$datestamp.pk3
+
 echo ---------Complete---------
