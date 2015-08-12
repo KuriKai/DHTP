@@ -9,7 +9,7 @@ rm -r $base_path/doomsday
 mkdir $base_path/built
 
 echo "Creating the Info file"
-cat > doomsday/Info << EOF
+read -d '' info << EOF
 name: DOOM High-resolution Texture Project
 
 language english (
@@ -26,6 +26,7 @@ language english (
 component: game-jdoom
 
 EOF
+echo "$info" > doomsday/info
 
 echo ---------starting to create the dhtp for the doomsday engine and compatible engines---------
 echo "Creating the doomsday folder"
@@ -51,7 +52,6 @@ cp $base_path/definitions/dhtp-doom1lights.ded $base_path/doomsday/dhtp-doom1lig
 cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2lights.ded
 cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2-plutlights.ded
 cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2tntlights.ded
-cp $base_path/Info $base_path/doomsday/Info
 cp -r $base_path/shinemaps/lightmaps $base_path/doomsday
 cp $base_path/definitions/dhtp-shinmaps.ded $base_path/doomsday/dhtp-shinmaps.ded
 cd $base_path/doomsday
