@@ -8,7 +8,10 @@ rm -r $base_path/doomsday
 
 mkdir $base_path/built
 
-echo "Creating the Info file"
+echo ---------starting to create the dhtp for the doomsday engine and compatible engines---------
+mkdir $base_path/doomsday
+
+echo ---------create info file---------
 read -d '' info << EOF
 name: DOOM High-resolution Texture Project
 
@@ -26,12 +29,7 @@ language english (
 component: game-jdoom
 
 EOF
-echo "$info" > doomsday/info
-
-echo ---------starting to create the dhtp for the doomsday engine and compatible engines---------
-echo "Creating the doomsday folder"
-rm -r $base_path/doomsday
-mkdir $base_path/doomsday
+echo "$info" > "$base_path/doomsday/info"
 
 echo ---------copying textures---------
 cp -r $base_path/textures $base_path/doomsday/textures

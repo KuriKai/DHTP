@@ -23,7 +23,6 @@ for filename in "$base_path/docs/"*; do
   base_name=$(basename $filename)
   cat "$base_path/README.md" "$filename" "$base_path/docs/OUTRO.txt" > "$base_path/zdoom/README_$base_name"
 done
-rm -r $base_path/zdoom/hires/doom1
 cd $base_path/zdoom
 
 echo ---------ziping pack---------
