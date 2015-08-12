@@ -23,12 +23,10 @@ for filename in "$base_path/docs/"*; do
   base_name=$(basename $filename)
   cat "$base_path/README.md" "$filename" "$base_path/docs/OUTRO.txt" > "$base_path/zdoom/README_$base_name"
 done
-cd $base_path/zdoom
 
 echo ---------ziping pack---------
-zip -r zdoom . -i \*.png \*.txt
-echo renaming and adding date of compile
-mv zdoom.zip ../built/zdoom-dhtp-$datestamp.pk3
-cd ..
+zip -r $base_path/zdoom . -i \*.png \*.txt
+echo ---------renaming and adding date of compile---------
+mv $base_path/zdoom.zip $base_path/built/zdoom-dhtp-$datestamp.pk3
 
 echo ---------Complete---------

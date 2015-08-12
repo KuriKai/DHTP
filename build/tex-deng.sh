@@ -52,12 +52,11 @@ cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2-pl
 cp $base_path/definitions/dhtp-doom2lights.ded $base_path/doomsday/dhtp-doom2tntlights.ded
 cp -r $base_path/shinemaps/lightmaps $base_path/doomsday
 cp $base_path/definitions/dhtp-shinmaps.ded $base_path/doomsday/dhtp-shinmaps.ded
-cd $base_path/doomsday
 
 echo ---------zipping pack---------
-zip -r doomsday . -i Info \*.png \*.ded \*.txt
+zip -r $base_path/doomsday . -i Info \*.png \*.ded \*.txt
 
 echo ---------renaming, adding date of compile, and moving to the built folder---------
-mv doomsday.zip ../built/deng-dhtp-$datestamp.pk3
+mv $base_path/doomsday.zip $base_path/built/deng-dhtp-$datestamp.pk3
 
 echo ---------Complete---------

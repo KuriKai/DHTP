@@ -32,13 +32,11 @@ for filename in "$base_path/docs/"*; do
   base_name=$(basename $filename)
   cat "$base_path/README.md" "$filename" "$base_path/docs/OUTRO.txt" > "$base_path/risen3d/README_$base_name"
 done
-cd $base_path/risen3d
 
 echo ---------ziping pack---------
-zip -r risen3d . -i \*.png \*.txt
+zip -r $base_path/risen3d . -i \*.png \*.txt
 
 echo ---------renaming, adding date of compile, and moving to the built folder---------
-mv risen3d.zip ../built/r3d-dhtp-$datestamp.zip
-cd ..
+mv $base_path/risen3d.zip $base_path/built/r3d-dhtp-$datestamp.zip
 
 echo ---------Complete---------

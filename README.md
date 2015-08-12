@@ -54,3 +54,13 @@ The main goal of the DHTP is to provide the community with a space to easily con
 2. Only PNG images can be uploaded. This keeps the size down and the quality flawless.
 
 
+----------------------------
+**** Build Instructions ****
+----------------------------
+
+```
+git clone git@github.com:KuriKai/DHTP.git
+cd DHTP
+./build/tex-all.sh
+```
+
