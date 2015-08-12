@@ -15,9 +15,9 @@ mkdir $base_path/risen3d/data
 echo ---------copying textures---------
 cp -r $base_path/textures $base_path/risen3d/data/textures
 cp -r $base_path/flats $base_path/risen3d/data/textures/flats
-cd $base_path/risen3d/data/textures/flats
 
 echo ---------renaming and moving the flats---------
+cd $base_path/risen3d/data/textures/flats
 for i in $(ls); do mv $i ../flat-$i; done
 cd $base_path/risen3d/data/textures
 rm -r flats
