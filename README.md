@@ -52,3 +52,5 @@ The main goal of the DHTP is to provide the community with a space to easily con
 1. Anything you submit MUST be entirely your own work or modifications of permission granted DHTP textures. You may not submit modifications of original id textures, as this constitutes copyright infringement.
 
 2. Only PNG images can be uploaded. This keeps the size down and the quality flawless.
+
+
