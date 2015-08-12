@@ -42,7 +42,7 @@ cp -r $base_path/flats $base_path/doomsday/flats
 echo ---------copying readmes---------
 for filename in "$base_path/docs/"*; do
   base_name=$(basename $filename)
-  cat "$base_path/README.md" "$filename" "$base_path/docs/OUTRO.txt" > "$base_path/doomsday/README_$base_name"
+  cat "$base_path/README.md" "$filename" "$base_path/credits.txt" > "$base_path/doomsday/README_$base_name"
 done
 
 echo ---------copying *.ded files---------
