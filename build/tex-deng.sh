@@ -54,8 +54,8 @@ cp -r $base_path/shinemaps/lightmaps $base_path/doomsday
 cp $base_path/definitions/dhtp-shinmaps.ded $base_path/doomsday/dhtp-shinmaps.ded
 
 echo ---------zipping pack---------
-pushd $base_path
-zip -r ./built/deng-dhtp-$datestamp.pk3 ./doomsday -i Info \*.png \*.ded \*.txt
+pushd $base_path/doomsday
+zip -r $base_path/built/deng-dhtp-$datestamp.pk3 . -i Info \*.png \*.ded \*.txt
 popd
 
 echo ---------Complete---------

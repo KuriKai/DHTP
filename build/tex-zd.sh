@@ -25,8 +25,8 @@ for filename in "$base_path/docs/"*; do
 done
 
 echo ---------ziping pack---------
-pushd $base_path
-zip -r ./built/zdoom-dhtp-$datestamp.pk3 ./zdoom -i \*.png \*.txt
+pushd $base_path/zdoom
+zip -r $base_path/built/zdoom-dhtp-$datestamp.pk3 . -i \*.png \*.txt
 popd
 
 echo ---------Complete---------

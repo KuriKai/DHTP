@@ -34,8 +34,8 @@ for filename in "$base_path/docs/"*; do
 done
 
 echo ---------ziping pack---------
-pushd $base_path
-zip -r ./built/r3d-dhtp-$datestamp.zip ./risen3d -i \*.png \*.txt
+pushd $base_path/risen3d
+zip -r $base_path/built/r3d-dhtp-$datestamp.zip . -i \*.png \*.txt
 popd
 
 echo ---------Complete---------
