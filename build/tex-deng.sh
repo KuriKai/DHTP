@@ -4,6 +4,8 @@ datestamp=$(date +%Y%m%d)
 script_path=$(cd "$(dirname "$0")" ; pwd -P)
 base_path=$(dirname "$script_path")
 
+rm -r $base_path/doomsday
+
 mkdir $base_path/built
 
 echo "Creating the Info file"
