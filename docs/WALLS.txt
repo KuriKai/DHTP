@@ -21,6 +21,8 @@ graybig, graytall, gray4, gray5, gray7, panblack, panred, panblue,  gray2, ickwa
 sp_face1, sw1exit, sw2exit, sw1gray, sw2gray, swgray1, sw2gray1(bstone3 and bricklit based off of Chilvences bstone2 and brick1 textures) (graypois back by Kurikai poison sign by unknown), grayvine (based of unknown's vine texture), sw1vine (based of unknown's vine texture), sw2vine (based of unknown's vine texture), gstvine (based of unknown's vine texture), gstvine2 (based of unknown's vine texture), pipes, exitdoor, exitston (based on stone2 by Reinchard)
 lite3, lite5, modwall1, modwall2, wood10, shawn1(based on shawn2 by Fredrik Johansson) wood6, wood7, wood8, wood9, midspace, shawn2, skincut, skinmet1, skinsymb,  starg3, sw2strtn, dbrain1, dbrain2, dbrain3, dbrain4, sw1ston1, sw2ston1 (based of stone2, by reinchard),
 
+KuriKai: Teamonster:
+rock4, rock5
 
 KuriKai: Doomenator:
 sw1mod1, sw2mod1
