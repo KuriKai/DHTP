@@ -6,12 +6,12 @@ Chilvence: chilvence@gmail.com
 ashwall2, ashwall3, ashwall6, ashwall7, bigbrik1, bigbrik2, bigbrik3, bigdoor1, brick1
 brick2, brick5, brick6, brick7, brick8, brick9,  bronze1, bronze2, bronze3, bronze4,
 brown1, brown96, brown144, browngrn, brownhug, bstone2, compspan,
-compwerd crackle2, crackle4, door1, doorblu2, doorred2, dooryel2, gstgarg, gstlion, gstone1,
+compwerd crackle2, crackle4, door1, doorblu2, doorred2, dooryel2, gstgarg, gstlion, 
 gstone2, gstsatyr, marbgray, marble1, marble2, marble3, marblod1, metal, metal2, metal3,
 metal4, metal5, metal6, metal7, plat1, sksnake1, sksnake2, spcdoor1, spcdoor2,
 sp_hot1, step4, steptop, steplad1, stone3, stucco, stucco1, stucco2, stucco3,
 support3, swgarg, swlion, tanrock7, teklite, teklite2, woodgarg, tekbron1, tekbron2, wood1, bigdoor5 (thanks for merging mr.chris),
-wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock, sw1comp, sw2comp wood4(freelanzers skulls), sw1gston, sw2gston
+wood3, wood5, woodvert, , rock2, rock3, sw1rock, sw2rock,  wood4(freelanzers skulls), sw1gston, sw2gston
 
 KuriKai: eunbolt@gmail.com
 crate1, crate2, crate3, cratelit, cratwide, cratiny, tanrock3, tanrock4 pancase1, pancase2, panbord1,
@@ -26,6 +26,12 @@ rock4, rock5
 
 KuriKai: Doomenator:
 sw1mod1, sw2mod1
+
+Kars:
+midgrate, shawn3
+
+Kars: Chilvence:
+bigdoor3, sw1comp, sw2comp, gstone1, sp_dude1, sp_dude2, sp_dude3, sp_dude4, sp_dude5, sp_dude6,
 
 Freelanzer : http://freelanzer.com : freelanzer@gmail.com
 sw1skull, sw2skull, sk_left, sk_right, woodskul, sp_dude8, zeldoor, zzwolf1, zzwolf3, zzwolf4, zzwolf5, zzwolf7, bigdoor7,
@@ -83,7 +89,7 @@ Cheprasov Andrey : Video-Ripper@Yandex.RU / Satan-213@yandex.RU
 woodmet1, woodmet2, woodmet3, woodmet4, midbrn1, midgrate
 
 Coen Zimmerman: tabun@planetquake.com http://www.tabun.nl/index.php
-bigdoor3, marbfac2, skinscab
+marbfac2, skinscab
 
 Envid:
 bigdoor6,  liteblu1, liteblu4, spcdoor3, starbr2,

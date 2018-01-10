@@ -18,6 +18,9 @@ step2
 Doomenator:
 cempois, sp_rock2
 
+Unknown and Kars:
+skulwall, skulwall3
+
 -----------------------------
 
 Created by unknown, Touched up by KuriKai
