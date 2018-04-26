@@ -6,7 +6,7 @@ DOOM High-resolution Texture Project
 * [Forum](http://dengine.net/forums/viewtopic.php?f=3&t=875#topic)
 
 
-# Introduction
+## Introduction
 
 The DHTP (DOOM High-resolution Texture Project) is a community driven project that had is birth as the D2RP (Doom 2 Retexture project). That project initially had a good start, but was unfortunately misguided during the course of its development, and couldn't realistically be rescued without a lot of attention. Thus, JDTP (jdoom texture pack) came into being (Thanks to Chilvence). To repair the damage and salvage what could be salvaged.
 Now it has grown into the DHTP which is a continuation of the JDTP but with all high resolution texture capable ports in mind.
@@ -15,7 +15,7 @@ The main goal of the DHTP is to provide the community with a space to easily con
 
 
 
-# Copyright / Permissions
+## Copyright / Permissions
 
 * You MAY use/edit Chilvence's Textures and Flats for any use you see fit ONLY IF you give credit.
 * You MAY use/edit KuriKai's Textures and Flats for any use you see fit as ONLY IF you give credit.
@@ -30,7 +30,7 @@ The main goal of the DHTP is to provide the community with a space to easily con
 
 
 
-# Participation
+## Participation
 
 * If you create textures for this project please release them under a free to use and edit license (like the ones already in the pack). This will allow the community to help improve the textures in the future.
 
@@ -43,7 +43,7 @@ The main goal of the DHTP is to provide the community with a space to easily con
   2) Only PNG images can be uploaded. This keeps the size down and the quality flawless.
 
 
-# Build Instructions
+## Build Instructions
 
 ```
 git clone git@github.com:KuriKai/DHTP.git
