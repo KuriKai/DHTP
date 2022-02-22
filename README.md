@@ -1,7 +1,7 @@
 # DHTP
 
 DOOM High-resolution Texture Project
-* [Download](http://dhtp.hiriwa.com/)
+* [Download](https://github.com/KuriKai/dhtp/wiki)
 * [GitHub](https://github.com/KuriKai/DHTP/)
 * [Forum](http://dengine.net/forums/viewtopic.php?f=3&t=875#topic)
 
